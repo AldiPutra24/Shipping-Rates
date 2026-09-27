@@ -34,7 +34,7 @@ Penggunaan:
   node cli.js --origin <kode> --destination <kode> --weight <kg> [opsi]
 
 Opsi:
-  --provider        jne | paxel | lionparcel | bosspack (pisahkan dengan koma; default: semua)
+  --provider        jne | biteship | paxel | lionparcel | bosspack (pisahkan dengan koma; default: semua)
   --length/--width/--height  dimensi opsional (cm)
   --lion-captcha <token>     token reCAPTCHA v3 untuk Lion Parcel (opsional)
   --json            output JSON mentah
@@ -42,7 +42,8 @@ Opsi:
 
 Contoh:
   node cli.js --origin BOO10000 --destination CGK10400 --weight 1
-  node cli.js --provider jne --origin BOO10000 --destination CGK10400 --weight 1`);
+  node cli.js --provider jne --origin BOO10000 --destination CGK10400 --weight 1
+  node cli.js --provider biteship --origin "bogor barat" --destination "jakarta pusat" --weight 1`);
 }
 
 function formatRupiah(n) {
