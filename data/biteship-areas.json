@@ -3902,5 +3902,1569 @@
   "buguk gona lanny jaya papua 99567": {
     "id": "IDNP24IDNC226IDND2194IDZ99567",
     "name": "Buguk Gona, Lanny Jaya, Papua. 99567"
+  },
+  "giri mulia bengkulu utara bengkulu 38655": {
+    "id": "IDNP4IDNC63IDND6547IDZ38655",
+    "name": "Giri Mulia, Bengkulu Utara, Bengkulu. 38655"
+  },
+  "guna lanny jaya papua 99556": {
+    "id": "IDNP24IDNC226IDND2200IDZ99556",
+    "name": "Guna, Lanny Jaya, Papua. 99556"
+  },
+  "parigi gowa sulawesi selatan 92174": {
+    "id": "IDNP28IDNC127IDND531IDZ92174",
+    "name": "Parigi, Gowa, Sulawesi Selatan. 92174"
+  },
+  "pining pinding gayo lues nanggroe aceh darussalam nad 24655": {
+    "id": "IDNP21IDNC123IDND468IDZ24655",
+    "name": "Pining (Pinding), Gayo Lues, Nanggroe Aceh Darussalam (NAD). 24655"
+  },
+  "putri betung gayo lues nanggroe aceh darussalam nad 24655": {
+    "id": "IDNP21IDNC123IDND469IDZ24655",
+    "name": "Putri Betung, Gayo Lues, Nanggroe Aceh Darussalam (NAD). 24655"
+  },
+  "terangun terangon gayo lues nanggroe aceh darussalam nad 24656": {
+    "id": "IDNP21IDNC123IDND471IDZ24656",
+    "name": "Terangun (Terangon), Gayo Lues, Nanggroe Aceh Darussalam (NAD). 24656"
+  },
+  "bajubang batang hari jambi 36611": {
+    "id": "IDNP8IDNC49IDND6361IDZ36611",
+    "name": "Bajubang, Batang Hari, Jambi. 36611"
+  },
+  "mersam batang hari jambi 36654": {
+    "id": "IDNP8IDNC49IDND6365IDZ36654",
+    "name": "Mersam, Batang Hari, Jambi. 36654"
+  },
+  "pemayung batang hari jambi 36657": {
+    "id": "IDNP8IDNC49IDND6368IDZ36657",
+    "name": "Pemayung, Batang Hari, Jambi. 36657"
+  },
+  "muara bulian batang hari jambi 36611": {
+    "id": "IDNP8IDNC49IDND6366IDZ36611",
+    "name": "Muara Bulian, Batang Hari, Jambi. 36611"
+  },
+  "muara bulian batang hari jambi 36612": {
+    "id": "IDNP8IDNC49IDND6366IDZ36612",
+    "name": "Muara Bulian, Batang Hari, Jambi. 36612"
+  },
+  "muara bulian batang hari jambi 36613": {
+    "id": "IDNP8IDNC49IDND6366IDZ36613",
+    "name": "Muara Bulian, Batang Hari, Jambi. 36613"
+  },
+  "muara bulian batang hari jambi 36614": {
+    "id": "IDNP8IDNC49IDND6366IDZ36614",
+    "name": "Muara Bulian, Batang Hari, Jambi. 36614"
+  },
+  "muara tembesi batang hari jambi 36653": {
+    "id": "IDNP8IDNC49IDND6367IDZ36653",
+    "name": "Muara Tembesi, Batang Hari, Jambi. 36653"
+  },
+  "batin xxiv batang hari jambi 36656": {
+    "id": "IDNP8IDNC49IDND6362IDZ36656",
+    "name": "Batin XXIV, Batang Hari, Jambi. 36656"
+  },
+  "katala hamu lingu sumba timur nusa tenggara timur ntt 87152": {
+    "id": "IDNP23IDNC427IDND5300IDZ87152",
+    "name": "Katala Hamu Lingu, Sumba Timur, Nusa Tenggara Timur (NTT). 87152"
+  },
+  "labuhan haji aceh selatan nanggroe aceh darussalam nad 23761": {
+    "id": "IDNP21IDNC5IDND6376IDZ23761",
+    "name": "Labuhan Haji, Aceh Selatan, Nanggroe Aceh Darussalam (NAD). 23761"
+  },
+  "labuhan haji lombok timur nusa tenggara barat ntb 83614": {
+    "id": "IDNP22IDNC235IDND2344IDZ83614",
+    "name": "Labuhan Haji, Lombok Timur, Nusa Tenggara Barat (NTB). 83614"
+  },
+  "labuhan haji lombok timur nusa tenggara barat ntb 83615": {
+    "id": "IDNP22IDNC235IDND2344IDZ83615",
+    "name": "Labuhan Haji, Lombok Timur, Nusa Tenggara Barat (NTB). 83615"
+  },
+  "labuhan haji lombok timur nusa tenggara barat ntb 83616": {
+    "id": "IDNP22IDNC235IDND2344IDZ83616",
+    "name": "Labuhan Haji, Lombok Timur, Nusa Tenggara Barat (NTB). 83616"
+  },
+  "labuhan haji lombok timur nusa tenggara barat ntb 83617": {
+    "id": "IDNP22IDNC235IDND2344IDZ83617",
+    "name": "Labuhan Haji, Lombok Timur, Nusa Tenggara Barat (NTB). 83617"
+  },
+  "labuhan haji barat aceh selatan nanggroe aceh darussalam nad 23757": {
+    "id": "IDNP21IDNC5IDND6377IDZ23757",
+    "name": "Labuhan Haji Barat, Aceh Selatan, Nanggroe Aceh Darussalam (NAD). 23757"
+  },
+  "labuhan haji timur aceh selatan nanggroe aceh darussalam nad 23758": {
+    "id": "IDNP21IDNC5IDND6378IDZ23758",
+    "name": "Labuhan Haji Timur, Aceh Selatan, Nanggroe Aceh Darussalam (NAD). 23758"
+  },
+  "maro sebo ulu batang hari jambi 36652": {
+    "id": "IDNP8IDNC49IDND6364IDZ36652",
+    "name": "Maro Sebo Ulu, Batang Hari, Jambi. 36652"
+  },
+  "hawu mehara sabu raijua nusa tenggara timur ntt 85391": {
+    "id": "IDNP23IDNC381IDND4540IDZ85391",
+    "name": "Hawu Mehara, Sabu Raijua, Nusa Tenggara Timur (NTT). 85391"
+  },
+  "hoat sorbay maluku tenggara maluku 97621": {
+    "id": "IDNP19IDNC254IDND2688IDZ97621",
+    "name": "Hoat Sorbay, Maluku Tenggara, Maluku. 97621"
+  },
+  "rhee sumbawa nusa tenggara barat ntb 84352": {
+    "id": "IDNP22IDNC428IDND5334IDZ84352",
+    "name": "Rhee, Sumbawa, Nusa Tenggara Barat (NTB). 84352"
+  },
+  "oheo konawe utara sulawesi tenggara 93353": {
+    "id": "IDNP30IDNC198IDND1653IDZ93353",
+    "name": "Oheo, Konawe Utara, Sulawesi Tenggara. 93353"
+  },
+  "hili serangkai hilisaranggu nias sumatera utara 22851": {
+    "id": "IDNP34IDNC305IDND3435IDZ22851",
+    "name": "Hili Serangkai (Hilisaranggu), Nias, Sumatera Utara. 22851"
+  },
+  "saipar dolok hole tapanuli selatan sumatera utara 22759": {
+    "id": "IDNP34IDNC452IDND5707IDZ22759",
+    "name": "Saipar Dolok Hole, Tapanuli Selatan, Sumatera Utara. 22759"
+  },
+  "kepenuhan hulu rokan hulu riau 28564": {
+    "id": "IDNP26IDNC378IDND4499IDZ28564",
+    "name": "Kepenuhan Hulu, Rokan Hulu, Riau. 28564"
+  },
+  "embaloh hulu kapuas hulu kalimantan barat 78755": {
+    "id": "IDNP12IDNC162IDND1114IDZ78755",
+    "name": "Embaloh Hulu, Kapuas Hulu, Kalimantan Barat. 78755"
+  },
+  "bunut hulu kapuas hulu kalimantan barat 78762": {
+    "id": "IDNP12IDNC162IDND1112IDZ78762",
+    "name": "Bunut Hulu, Kapuas Hulu, Kalimantan Barat. 78762"
+  },
+  "hulu gurung kapuas hulu kalimantan barat 78764": {
+    "id": "IDNP12IDNC162IDND1116IDZ78764",
+    "name": "Hulu Gurung, Kapuas Hulu, Kalimantan Barat. 78764"
+  },
+  "silat hulu kapuas hulu kalimantan barat 78774": {
+    "id": "IDNP12IDNC162IDND1128IDZ78774",
+    "name": "Silat Hulu, Kapuas Hulu, Kalimantan Barat. 78774"
+  },
+  "siak hulu kampar riau 28452": {
+    "id": "IDNP26IDNC160IDND1084IDZ28452",
+    "name": "Siak Hulu, Kampar, Riau. 28452"
+  },
+  "tapung hulu kampar riau 28466": {
+    "id": "IDNP26IDNC160IDND1088IDZ28466",
+    "name": "Tapung Hulu, Kampar, Riau. 28466"
+  },
+  "tandun rokan hulu riau 28552": {
+    "id": "IDNP26IDNC378IDND4509IDZ28552",
+    "name": "Tandun, Rokan Hulu, Riau. 28552"
+  },
+  "hoya mimika papua 99966": {
+    "id": "IDNP24IDNC280IDND3026IDZ99966",
+    "name": "Hoya, Mimika, Papua. 99966"
+  },
+  "pulau hiri ternate maluku utara 97751": {
+    "id": "IDNP20IDNC464IDND5916IDZ97751",
+    "name": "Pulau Hiri, Ternate, Maluku Utara. 97751"
+  },
+  "pematang silima huta simalungun sumatera utara 21167": {
+    "id": "IDNP34IDNC406IDND4951IDZ21167",
+    "name": "Pematang Silima Huta, Simalungun, Sumatera Utara. 21167"
+  },
+  "huta bayu raja simalungun sumatera utara 21182": {
+    "id": "IDNP34IDNC406IDND4944IDZ21182",
+    "name": "Huta Bayu Raja, Simalungun, Sumatera Utara. 21182"
+  },
+  "huta bargot mandailing natal sumatera utara 22979": {
+    "id": "IDNP34IDNC263IDND2788IDZ22979",
+    "name": "Huta Bargot, Mandailing Natal, Sumatera Utara. 22979"
+  },
+  "huta raja tinggi padang lawas sumatera utara 22776": {
+    "id": "IDNP34IDNC317IDND3640IDZ22776",
+    "name": "Huta Raja Tinggi, Padang Lawas, Sumatera Utara. 22776"
+  },
+  "kabun rokan hulu riau 28554": {
+    "id": "IDNP26IDNC378IDND4497IDZ28554",
+    "name": "Kabun, Rokan Hulu, Riau. 28554"
+  },
+  "rambah rokan hulu riau 28557": {
+    "id": "IDNP26IDNC378IDND4503IDZ28557",
+    "name": "Rambah, Rokan Hulu, Riau. 28557"
+  },
+  "balai riam sukamara kalimantan tengah 74173": {
+    "id": "IDNP14IDNC422IDND5255IDZ74173",
+    "name": "Balai Riam, Sukamara, Kalimantan Tengah. 74173"
+  },
+  "seribu riam murung raya kalimantan tengah 73981": {
+    "id": "IDNP14IDNC293IDND3235IDZ73981",
+    "name": "Seribu Riam, Murung Raya, Kalimantan Tengah. 73981"
+  },
+  "long iram kutai barat kalimantan timur 75766": {
+    "id": "IDNP15IDNC209IDND1835IDZ75766",
+    "name": "Long Iram, Kutai Barat, Kalimantan Timur. 75766"
+  },
+  "bathin iii ulu bungo jambi 37261": {
+    "id": "IDNP8IDNC92IDND7031IDZ37261",
+    "name": "Bathin III Ulu, Bungo, Jambi. 37261"
+  },
+  "tigo nagari iii nagari pasaman sumatera barat 26353": {
+    "id": "IDNP32IDNC337IDND3888IDZ26353",
+    "name": "Tigo Nagari (III Nagari), Pasaman, Sumatera Barat. 26353"
+  },
+  "muruk rian tana tidung kalimantan utara 77152": {
+    "id": "IDNP16IDNC440IDND5527IDZ77152",
+    "name": "Muruk Rian, Tana Tidung, Kalimantan Utara. 77152"
+  },
+  "kian darat seram bagian timur maluku 97594": {
+    "id": "IDNP19IDNC395IDND4730IDZ97594",
+    "name": "Kian Darat, Seram Bagian Timur, Maluku. 97594"
+  },
+  "botomuzoi nias sumatera utara 22815": {
+    "id": "IDNP34IDNC305IDND3433IDZ22815",
+    "name": "Botomuzoi, Nias, Sumatera Utara. 22815"
+  },
+  "bawolato nias sumatera utara 22851": {
+    "id": "IDNP34IDNC305IDND3432IDZ22851",
+    "name": "Bawolato, Nias, Sumatera Utara. 22851"
+  },
+  "hiliduho nias sumatera utara 22851": {
+    "id": "IDNP34IDNC305IDND3436IDZ22851",
+    "name": "Hiliduho, Nias, Sumatera Utara. 22851"
+  },
+  "hiliduho nias sumatera utara 22854": {
+    "id": "IDNP34IDNC305IDND3436IDZ22854",
+    "name": "Hiliduho, Nias, Sumatera Utara. 22854"
+  },
+  "ma u nias sumatera utara 22855": {
+    "id": "IDNP34IDNC305IDND3438IDZ22855",
+    "name": "Ma'u, Nias, Sumatera Utara. 22855"
+  },
+  "bawolato nias sumatera utara 22876": {
+    "id": "IDNP34IDNC305IDND3432IDZ22876",
+    "name": "Bawolato, Nias, Sumatera Utara. 22876"
+  },
+  "ulugawo nias sumatera utara 22877": {
+    "id": "IDNP34IDNC305IDND3441IDZ22877",
+    "name": "Ulugawo, Nias, Sumatera Utara. 22877"
+  },
+  "sungai liat bangka bangka belitung 33211": {
+    "id": "IDNP2IDNC27IDND2875IDZ33211",
+    "name": "Sungai Liat, Bangka, Bangka Belitung. 33211"
+  },
+  "sungai liat bangka bangka belitung 33212": {
+    "id": "IDNP2IDNC27IDND2875IDZ33212",
+    "name": "Sungai Liat, Bangka, Bangka Belitung. 33212"
+  },
+  "sungai liat bangka bangka belitung 33213": {
+    "id": "IDNP2IDNC27IDND2875IDZ33213",
+    "name": "Sungai Liat, Bangka, Bangka Belitung. 33213"
+  },
+  "sungai liat bangka bangka belitung 33214": {
+    "id": "IDNP2IDNC27IDND2875IDZ33214",
+    "name": "Sungai Liat, Bangka, Bangka Belitung. 33214"
+  },
+  "sungai liat bangka bangka belitung 33215": {
+    "id": "IDNP2IDNC27IDND2875IDZ33215",
+    "name": "Sungai Liat, Bangka, Bangka Belitung. 33215"
+  },
+  "siak siak riau 28673": {
+    "id": "IDNP26IDNC399IDND4814IDZ28673",
+    "name": "Siak, Siak, Riau. 28673"
+  },
+  "buay pematang ribu ranau tengah ogan komering ulu selatan sumatera selatan 32274": {
+    "id": "IDNP33IDNC313IDND3575IDZ32274",
+    "name": "Buay Pematang Ribu Ranau Tengah, Ogan Komering Ulu Selatan, Sumatera Selatan. 32274"
+  },
+  "siritaun wida timur seram bagian timur maluku 97598": {
+    "id": "IDNP19IDNC395IDND4735IDZ97598",
+    "name": "Siritaun Wida Timur, Seram Bagian Timur, Maluku. 97598"
+  },
+  "unter iwes unterwiris sumbawa nusa tenggara barat ntb 84316": {
+    "id": "IDNP22IDNC428IDND5338IDZ84316",
+    "name": "Unter Iwes (Unterwiris), Sumbawa, Nusa Tenggara Barat (NTB). 84316"
+  },
+  "sigi biromaru sigi sulawesi tengah 94364": {
+    "id": "IDNP29IDNC403IDND4900IDZ94364",
+    "name": "Sigi Biromaru, Sigi, Sulawesi Tengah. 94364"
+  },
+  "tigi deiyai papua 98764": {
+    "id": "IDNP24IDNC107IDND192IDZ98764",
+    "name": "Tigi, Deiyai, Papua. 98764"
+  },
+  "yigi nduga papua 99564": {
+    "id": "IDNP24IDNC301IDND3380IDZ99564",
+    "name": "Yigi, Nduga, Papua. 99564"
+  },
+  "pipikoro sigi sulawesi tengah 94112": {
+    "id": "IDNP29IDNC403IDND4899IDZ94112",
+    "name": "Pipikoro, Sigi, Sulawesi Tengah. 94112"
+  },
+  "pipikoro sigi sulawesi tengah 94113": {
+    "id": "IDNP29IDNC403IDND4899IDZ94113",
+    "name": "Pipikoro, Sigi, Sulawesi Tengah. 94113"
+  },
+  "kinovaro sigi sulawesi tengah 94362": {
+    "id": "IDNP29IDNC403IDND7161IDZ94362",
+    "name": "Kinovaro, Sigi, Sulawesi Tengah. 94362"
+  },
+  "kinovaru sigi sulawesi tengah 94362": {
+    "id": "IDNP29IDNC403IDND4891IDZ94362",
+    "name": "Kinovaru, Sigi, Sulawesi Tengah. 94362"
+  },
+  "kulawi sigi sulawesi tengah 94363": {
+    "id": "IDNP29IDNC403IDND4892IDZ94363",
+    "name": "Kulawi, Sigi, Sulawesi Tengah. 94363"
+  },
+  "glumpang tiga geulumpang tiga pidie nanggroe aceh darussalam nad 24183": {
+    "id": "IDNP21IDNC355IDND4135IDZ24183",
+    "name": "Glumpang Tiga (Geulumpang Tiga), Pidie, Nanggroe Aceh Darussalam (NAD). 24183"
+  },
+  "pulau tiga asmat papua 99778": {
+    "id": "IDNP24IDNC16IDND1062IDZ99778",
+    "name": "Pulau Tiga, Asmat, Papua. 99778"
+  },
+  "tiga binanga karo sumatera utara 22162": {
+    "id": "IDNP34IDNC167IDND1211IDZ22162",
+    "name": "Tiga Binanga, Karo, Sumatera Utara. 22162"
+  },
+  "tiga panah karo sumatera utara 22170": {
+    "id": "IDNP34IDNC167IDND1212IDZ22170",
+    "name": "Tiga Panah, Karo, Sumatera Utara. 22170"
+  },
+  "tiga lingga dairi sumatera utara 22252": {
+    "id": "IDNP34IDNC106IDND189IDZ22252",
+    "name": "Tiga Lingga, Dairi, Sumatera Utara. 22252"
+  },
+  "pulau tiga natuna kepulauan riau 29788": {
+    "id": "IDNP17IDNC300IDND3345IDZ29788",
+    "name": "Pulau Tiga, Natuna, Kepulauan Riau. 29788"
+  },
+  "pematang tiga bengkulu tengah bengkulu 38370": {
+    "id": "IDNP4IDNC62IDND6535IDZ38370",
+    "name": "Pematang Tiga, Bengkulu Tengah, Bengkulu. 38370"
+  },
+  "pulau tiga barat natuna kepulauan riau 29786": {
+    "id": "IDNP17IDNC300IDND7126IDZ29786",
+    "name": "Pulau Tiga Barat, Natuna, Kepulauan Riau. 29786"
+  },
+  "ilir timur tiga palembang sumatera selatan 30111": {
+    "id": "IDNP33IDNC325IDND7170IDZ30111",
+    "name": "Ilir Timur Tiga, Palembang, Sumatera Selatan. 30111"
+  },
+  "ilir timur tiga palembang sumatera selatan 30112": {
+    "id": "IDNP33IDNC325IDND7170IDZ30112",
+    "name": "Ilir Timur Tiga, Palembang, Sumatera Selatan. 30112"
+  },
+  "tigo lurah solok sumatera barat 27374": {
+    "id": "IDNP32IDNC413IDND7201IDZ27374",
+    "name": "Tigo Lurah, Solok, Sumatera Barat. 27374"
+  },
+  "lamposi tigo nagari payakumbuh sumatera barat 26219": {
+    "id": "IDNP32IDNC342IDND3964IDZ26219",
+    "name": "Lamposi Tigo Nagari, Payakumbuh, Sumatera Barat. 26219"
+  },
+  "belitang iii ogan komering ulu timur sumatera selatan 32385": {
+    "id": "IDNP33IDNC314IDND3593IDZ32385",
+    "name": "Belitang III, Ogan Komering Ulu Timur, Sumatera Selatan. 32385"
+  },
+  "bathin viii batin viii sarolangun jambi 37481": {
+    "id": "IDNP8IDNC389IDND4629IDZ37481",
+    "name": "Bathin VIII (Batin VIII), Sarolangun, Jambi. 37481"
+  },
+  "long ikis paser kalimantan timur 76282": {
+    "id": "IDNP15IDNC339IDND3903IDZ76282",
+    "name": "Long Ikis, Paser, Kalimantan Timur. 76282"
+  },
+  "dataran isim manokwari selatan papua barat 98326": {
+    "id": "IDNP25IDNC268IDND2847IDZ98326",
+    "name": "Dataran Isim, Manokwari Selatan, Papua Barat. 98326"
+  },
+  "air sugihan ogan komering ilir sumatera selatan 30656": {
+    "id": "IDNP33IDNC311IDND3542IDZ30656",
+    "name": "Air Sugihan, Ogan Komering Ilir, Sumatera Selatan. 30656"
+  },
+  "ilir timur ii palembang sumatera selatan 30111": {
+    "id": "IDNP33IDNC325IDND3708IDZ30111",
+    "name": "Ilir Timur II, Palembang, Sumatera Selatan. 30111"
+  },
+  "ilir timur ii palembang sumatera selatan 30112": {
+    "id": "IDNP33IDNC325IDND3708IDZ30112",
+    "name": "Ilir Timur II, Palembang, Sumatera Selatan. 30112"
+  },
+  "ilir timur ii palembang sumatera selatan 30113": {
+    "id": "IDNP33IDNC325IDND3708IDZ30113",
+    "name": "Ilir Timur II, Palembang, Sumatera Selatan. 30113"
+  },
+  "ilir timur ii palembang sumatera selatan 30114": {
+    "id": "IDNP33IDNC325IDND3708IDZ30114",
+    "name": "Ilir Timur II, Palembang, Sumatera Selatan. 30114"
+  },
+  "ilir timur ii palembang sumatera selatan 30115": {
+    "id": "IDNP33IDNC325IDND3708IDZ30115",
+    "name": "Ilir Timur II, Palembang, Sumatera Selatan. 30115"
+  },
+  "ilir timur ii palembang sumatera selatan 30116": {
+    "id": "IDNP33IDNC325IDND3708IDZ30116",
+    "name": "Ilir Timur II, Palembang, Sumatera Selatan. 30116"
+  },
+  "ilir timur ii palembang sumatera selatan 30117": {
+    "id": "IDNP33IDNC325IDND3708IDZ30117",
+    "name": "Ilir Timur II, Palembang, Sumatera Selatan. 30117"
+  },
+  "ilir timur ii palembang sumatera selatan 30118": {
+    "id": "IDNP33IDNC325IDND3708IDZ30118",
+    "name": "Ilir Timur II, Palembang, Sumatera Selatan. 30118"
+  },
+  "ilir barat ii palembang sumatera selatan 30141": {
+    "id": "IDNP33IDNC325IDND3706IDZ30141",
+    "name": "Ilir Barat II, Palembang, Sumatera Selatan. 30141"
+  },
+  "pija nduga papua 99565": {
+    "id": "IDNP24IDNC301IDND3374IDZ99565",
+    "name": "Pija, Nduga, Papua. 99565"
+  },
+  "jila mimika papua 99966": {
+    "id": "IDNP24IDNC280IDND3028IDZ99966",
+    "name": "Jila, Mimika, Papua. 99966"
+  },
+  "mila pidie nanggroe aceh darussalam nad 24163": {
+    "id": "IDNP21IDNC355IDND4142IDZ24163",
+    "name": "Mila, Pidie, Nanggroe Aceh Darussalam (NAD). 24163"
+  },
+  "silo jember jawa timur 68184": {
+    "id": "IDNP11IDNC154IDND980IDZ68184",
+    "name": "Silo, Jember, Jawa Timur. 68184"
+  },
+  "kilo dompu nusa tenggara barat ntb 84252": {
+    "id": "IDNP22IDNC114IDND297IDZ84252",
+    "name": "Kilo, Dompu, Nusa Tenggara Barat (NTB). 84252"
+  },
+  "ilir barat ii palembang sumatera selatan 30142": {
+    "id": "IDNP33IDNC325IDND3706IDZ30142",
+    "name": "Ilir Barat II, Palembang, Sumatera Selatan. 30142"
+  },
+  "situjuah limo lima nagari lima puluh kota sumatera barat 26250": {
+    "id": "IDNP32IDNC231IDND2308IDZ26250",
+    "name": "Situjuah Limo/Lima Nagari, Lima Puluh Kota, Sumatera Barat. 26250"
+  },
+  "lima puluh pekanbaru riau 28141": {
+    "id": "IDNP26IDNC346IDND4037IDZ28141",
+    "name": "Lima Puluh, Pekanbaru, Riau. 28141"
+  },
+  "lima puluh pekanbaru riau 28142": {
+    "id": "IDNP26IDNC346IDND4037IDZ28142",
+    "name": "Lima Puluh, Pekanbaru, Riau. 28142"
+  },
+  "lima puluh pekanbaru riau 28143": {
+    "id": "IDNP26IDNC346IDND4037IDZ28143",
+    "name": "Lima Puluh, Pekanbaru, Riau. 28143"
+  },
+  "lima puluh pekanbaru riau 28144": {
+    "id": "IDNP26IDNC346IDND4037IDZ28144",
+    "name": "Lima Puluh, Pekanbaru, Riau. 28144"
+  },
+  "payakumbuh lima puluh kota sumatera barat 26251": {
+    "id": "IDNP32IDNC231IDND2307IDZ26251",
+    "name": "Payakumbuh, Lima Puluh Kota, Sumatera Barat. 26251"
+  },
+  "akabiluru lima puluh kota sumatera barat 26252": {
+    "id": "IDNP32IDNC231IDND2297IDZ26252",
+    "name": "Akabiluru, Lima Puluh Kota, Sumatera Barat. 26252"
+  },
+  "mungka lima puluh kota sumatera barat 26254": {
+    "id": "IDNP32IDNC231IDND2305IDZ26254",
+    "name": "Mungka, Lima Puluh Kota, Sumatera Barat. 26254"
+  },
+  "suliki lima puluh kota sumatera barat 26255": {
+    "id": "IDNP32IDNC231IDND2309IDZ26255",
+    "name": "Suliki, Lima Puluh Kota, Sumatera Barat. 26255"
+  },
+  "teluk kimi nabire papua 98818": {
+    "id": "IDNP24IDNC297IDND3284IDZ98818",
+    "name": "Teluk Kimi, Nabire, Papua. 98818"
+  },
+  "pelepat ilir bungo jambi 37252": {
+    "id": "IDNP8IDNC92IDND7039IDZ37252",
+    "name": "Pelepat Ilir, Bungo, Jambi. 37252"
+  },
+  "jujuhan ilir bungo jambi 37257": {
+    "id": "IDNP8IDNC92IDND7034IDZ37257",
+    "name": "Jujuhan Ilir, Bungo, Jambi. 37257"
+  },
+  "tabir ilir merangin jambi 37353": {
+    "id": "IDNP8IDNC276IDND2979IDZ37353",
+    "name": "Tabir Ilir, Merangin, Jambi. 37353"
+  },
+  "rimbo ilir tebo jambi 37552": {
+    "id": "IDNP8IDNC459IDND5818IDZ37552",
+    "name": "Rimbo Ilir, Tebo, Jambi. 37552"
+  },
+  "tengah ilir tebo jambi 37574": {
+    "id": "IDNP8IDNC459IDND5825IDZ37574",
+    "name": "Tengah Ilir, Tebo, Jambi. 37574"
+  },
+  "ilir talo seluma bengkulu 38887": {
+    "id": "IDNP4IDNC392IDND4668IDZ38887",
+    "name": "Ilir Talo, Seluma, Bengkulu. 38887"
+  },
+  "bermani ilir kepahiang bengkulu 39374": {
+    "id": "IDNP4IDNC176IDND1346IDZ39374",
+    "name": "Bermani Ilir, Kepahiang, Bengkulu. 39374"
+  },
+  "pintu rime gayo bener meriah nanggroe aceh darussalam nad 24554": {
+    "id": "IDNP21IDNC57IDND6470IDZ24554",
+    "name": "Pintu Rime Gayo, Bener Meriah, Nanggroe Aceh Darussalam (NAD). 24554"
+  },
+  "limo depok jawa barat 16512": {
+    "id": "IDNP9IDNC111IDND268IDZ16512",
+    "name": "Limo, Depok, Jawa Barat. 16512"
+  },
+  "limo depok jawa barat 16515": {
+    "id": "IDNP9IDNC111IDND268IDZ16515",
+    "name": "Limo, Depok, Jawa Barat. 16515"
+  },
+  "limo depok jawa barat 16531": {
+    "id": "IDNP9IDNC111IDND268IDZ16531",
+    "name": "Limo, Depok, Jawa Barat. 16531"
+  },
+  "simo boyolali jawa tengah 57377": {
+    "id": "IDNP10IDNC86IDND6960IDZ57377",
+    "name": "Simo, Boyolali, Jawa Tengah. 57377"
+  },
+  "sine ngawi jawa timur 63264": {
+    "id": "IDNP11IDNC304IDND3430IDZ63264",
+    "name": "Sine, Ngawi, Jawa Timur. 63264"
+  },
+  "pino bengkulu selatan bengkulu 38571": {
+    "id": "IDNP4IDNC61IDND6526IDZ38571",
+    "name": "Pino, Bengkulu Selatan, Bengkulu. 38571"
+  },
+  "tiom lanny jaya papua 99563": {
+    "id": "IDNP24IDNC226IDND2219IDZ99563",
+    "name": "Tiom, Lanny Jaya, Papua. 99563"
+  },
+  "tiom ollo lanny jaya papua 99563": {
+    "id": "IDNP24IDNC226IDND2220IDZ99563",
+    "name": "Tiom Ollo, Lanny Jaya, Papua. 99563"
+  },
+  "ipuh muko muko selatan muko muko bengkulu 38764": {
+    "id": "IDNP4IDNC290IDND3186IDZ38764",
+    "name": "Ipuh (Muko-Muko Selatan), Muko Muko, Bengkulu. 38764"
+  },
+  "kampar kiri kampar riau 28472": {
+    "id": "IDNP26IDNC160IDND1073IDZ28472",
+    "name": "Kampar Kiri, Kampar, Riau. 28472"
+  },
+  "miri sragen jawa tengah 57276": {
+    "id": "IDNP10IDNC418IDND5137IDZ57276",
+    "name": "Miri, Sragen, Jawa Tengah. 57276"
+  },
+  "kampar kiri hilir kampar riau 28473": {
+    "id": "IDNP26IDNC160IDND1074IDZ28473",
+    "name": "Kampar Kiri Hilir, Kampar, Riau. 28473"
+  },
+  "kampar kiri hulu kampar riau 28474": {
+    "id": "IDNP26IDNC160IDND1075IDZ28474",
+    "name": "Kampar Kiri Hulu, Kampar, Riau. 28474"
+  },
+  "kampar kiri tengah kampar riau 28475": {
+    "id": "IDNP26IDNC160IDND1076IDZ28475",
+    "name": "Kampar Kiri Tengah, Kampar, Riau. 28475"
+  },
+  "tiro truseb pidie nanggroe aceh darussalam nad 24174": {
+    "id": "IDNP21IDNC355IDND4152IDZ24174",
+    "name": "Tiro/Truseb, Pidie, Nanggroe Aceh Darussalam (NAD). 24174"
+  },
+  "jita mimika papua 99965": {
+    "id": "IDNP24IDNC280IDND3029IDZ99965",
+    "name": "Jita, Mimika, Papua. 99965"
+  },
+  "wita waya jayawijaya papua 99552": {
+    "id": "IDNP24IDNC153IDND955IDZ99552",
+    "name": "Wita Waya, Jayawijaya, Papua. 99552"
+  },
+  "wita ponda morowali sulawesi tengah 94978": {
+    "id": "IDNP29IDNC286IDND3134IDZ94978",
+    "name": "Wita Ponda, Morowali, Sulawesi Tengah. 94978"
+  },
+  "nita sikka nusa tenggara timur ntt 86152": {
+    "id": "IDNP23IDNC405IDND4924IDZ86152",
+    "name": "Nita, Sikka, Nusa Tenggara Timur (NTT). 86152"
+  },
+  "tumbang titi ketapang kalimantan barat 78877": {
+    "id": "IDNP12IDNC189IDND1516IDZ78877",
+    "name": "Tumbang Titi, Ketapang, Kalimantan Barat. 78877"
+  },
+  "kapalla pitu kapala pitu toraja utara sulawesi selatan 91854": {
+    "id": "IDNP28IDNC473IDND6094IDZ91854",
+    "name": "Kapalla Pitu (Kapala Pitu), Toraja Utara, Sulawesi Selatan. 91854"
+  },
+  "pitu ngawi jawa timur 63252": {
+    "id": "IDNP11IDNC304IDND3429IDZ63252",
+    "name": "Pitu, Ngawi, Jawa Timur. 63252"
+  },
+  "rawa pitu tulang bawang lampung 34595": {
+    "id": "IDNP18IDNC477IDND6159IDZ34595",
+    "name": "Rawa Pitu, Tulang Bawang, Lampung. 34595"
+  },
+  "rawa jitu utara mesuji lampung 34696": {
+    "id": "IDNP18IDNC278IDND3008IDZ34696",
+    "name": "Rawa Jitu Utara, Mesuji, Lampung. 34696"
+  },
+  "pitu riawa sidenreng rappang sulawesi selatan 91683": {
+    "id": "IDNP28IDNC401IDND4865IDZ91683",
+    "name": "Pitu Riawa, Sidenreng Rappang, Sulawesi Selatan. 91683"
+  },
+  "pitu raise riase sidenreng rappang sulawesi selatan 91691": {
+    "id": "IDNP28IDNC401IDND4864IDZ91691",
+    "name": "Pitu Raise/Riase, Sidenreng Rappang, Sulawesi Selatan. 91691"
+  },
+  "iwur okiwur pegunungan bintang papua 99575": {
+    "id": "IDNP24IDNC344IDND3987IDZ99575",
+    "name": "Iwur (Okiwur), Pegunungan Bintang, Papua. 99575"
+  },
+  "tiwu kolaka utara sulawesi tenggara 93963": {
+    "id": "IDNP30IDNC194IDND1590IDZ93963",
+    "name": "Tiwu, Kolaka Utara, Sulawesi Tenggara. 93963"
+  },
+  "deiyai miyo paniai papua 98725": {
+    "id": "IDNP24IDNC333IDND7177IDZ98725",
+    "name": "Deiyai Miyo, Paniai, Papua. 98725"
+  },
+  "mimika barat jauh mimika papua 99974": {
+    "id": "IDNP24IDNC280IDND3033IDZ99974",
+    "name": "Mimika Barat Jauh, Mimika, Papua. 99974"
+  },
+  "aifat timur jauh maybrat papua barat 98274": {
+    "id": "IDNP25IDNC272IDND2899IDZ98274",
+    "name": "Aifat Timur Jauh, Maybrat, Papua Barat. 98274"
+  },
+  "mustika jaya bekasi jawa barat 17155": {
+    "id": "IDNP9IDNC53IDND6426IDZ17155",
+    "name": "Mustika Jaya, Bekasi, Jawa Barat. 17155"
+  },
+  "mustika jaya bekasi jawa barat 17156": {
+    "id": "IDNP9IDNC53IDND6426IDZ17156",
+    "name": "Mustika Jaya, Bekasi, Jawa Barat. 17156"
+  },
+  "mustika jaya bekasi jawa barat 17158": {
+    "id": "IDNP9IDNC53IDND6426IDZ17158",
+    "name": "Mustika Jaya, Bekasi, Jawa Barat. 17158"
+  },
+  "mustika jaya bekasi jawa barat 17167": {
+    "id": "IDNP9IDNC53IDND6426IDZ17167",
+    "name": "Mustika Jaya, Bekasi, Jawa Barat. 17167"
+  },
+  "karang jaya tasikmalaya jawa barat 46199": {
+    "id": "IDNP9IDNC457IDND5783IDZ46199",
+    "name": "Karang Jaya, Tasikmalaya, Jawa Barat. 46199"
+  },
+  "lentarai jaya s lantari jaya bombana sulawesi tenggara 93774": {
+    "id": "IDNP30IDNC80IDND6838IDZ93774",
+    "name": "Lentarai Jaya S. (Lantari Jaya), Bombana, Sulawesi Tenggara. 93774"
+  },
+  "sindang jaya tangerang banten 15540": {
+    "id": "IDNP3IDNC445IDND5620IDZ15540",
+    "name": "Sindang Jaya, Tangerang, Banten. 15540"
+  },
+  "sindang jaya tangerang banten 15560": {
+    "id": "IDNP3IDNC445IDND5620IDZ15560",
+    "name": "Sindang Jaya, Tangerang, Banten. 15560"
+  },
+  "sindang jaya tangerang banten 15561": {
+    "id": "IDNP3IDNC445IDND5620IDZ15561",
+    "name": "Sindang Jaya, Tangerang, Banten. 15561"
+  },
+  "rumbio jaya kampar riau 28458": {
+    "id": "IDNP26IDNC160IDND1082IDZ28458",
+    "name": "Rumbio Jaya, Kampar, Riau. 28458"
+  },
+  "panca jaya mesuji lampung 34698": {
+    "id": "IDNP18IDNC278IDND3007IDZ34698",
+    "name": "Panca Jaya, Mesuji, Lampung. 34698"
+  },
+  "jaro tabalong kalimantan selatan 71574": {
+    "id": "IDNP13IDNC436IDND5459IDZ71574",
+    "name": "Jaro, Tabalong, Kalimantan Selatan. 71574"
+  },
+  "jair boven digoel papua 99661": {
+    "id": "IDNP24IDNC85IDND6930IDZ99661",
+    "name": "Jair, Boven Digoel, Papua. 99661"
+  },
+  "jati blora jawa tengah 58384": {
+    "id": "IDNP10IDNC72IDND6694IDZ58384",
+    "name": "Jati, Blora, Jawa Tengah. 58384"
+  },
+  "jati kudus jawa tengah 59341": {
+    "id": "IDNP10IDNC205IDND1749IDZ59341",
+    "name": "Jati, Kudus, Jawa Tengah. 59341"
+  },
+  "jati kudus jawa tengah 59342": {
+    "id": "IDNP10IDNC205IDND1749IDZ59342",
+    "name": "Jati, Kudus, Jawa Tengah. 59342"
+  },
+  "jati kudus jawa tengah 59343": {
+    "id": "IDNP10IDNC205IDND1749IDZ59343",
+    "name": "Jati, Kudus, Jawa Tengah. 59343"
+  },
+  "jati kudus jawa tengah 59344": {
+    "id": "IDNP10IDNC205IDND1749IDZ59344",
+    "name": "Jati, Kudus, Jawa Tengah. 59344"
+  },
+  "jati kudus jawa tengah 59346": {
+    "id": "IDNP10IDNC205IDND1749IDZ59346",
+    "name": "Jati, Kudus, Jawa Tengah. 59346"
+  },
+  "jati kudus jawa tengah 59347": {
+    "id": "IDNP10IDNC205IDND1749IDZ59347",
+    "name": "Jati, Kudus, Jawa Tengah. 59347"
+  },
+  "jati kudus jawa tengah 59348": {
+    "id": "IDNP10IDNC205IDND1749IDZ59348",
+    "name": "Jati, Kudus, Jawa Tengah. 59348"
+  },
+  "jati kudus jawa tengah 59349": {
+    "id": "IDNP10IDNC205IDND1749IDZ59349",
+    "name": "Jati, Kudus, Jawa Tengah. 59349"
+  },
+  "jati sampurna bekasi jawa barat 17432": {
+    "id": "IDNP9IDNC53IDND6420IDZ17432",
+    "name": "Jati Sampurna, Bekasi, Jawa Barat. 17432"
+  },
+  "ujan mas muara enim sumatera selatan 31351": {
+    "id": "IDNP33IDNC288IDND3163IDZ31351",
+    "name": "Ujan Mas, Muara Enim, Sumatera Selatan. 31351"
+  },
+  "juli bireuen nanggroe aceh darussalam nad 24250": {
+    "id": "IDNP21IDNC69IDND6631IDZ24250",
+    "name": "Juli, Bireuen, Nanggroe Aceh Darussalam (NAD). 24250"
+  },
+  "jumo temanggung jawa tengah 56256": {
+    "id": "IDNP10IDNC463IDND5899IDZ56256",
+    "name": "Jumo, Temanggung, Jawa Tengah. 56256"
+  },
+  "juai balangan kalimantan selatan 71665": {
+    "id": "IDNP13IDNC18IDND1384IDZ71665",
+    "name": "Juai, Balangan, Kalimantan Selatan. 71665"
+  },
+  "lumban julu toba samosir sumatera utara 22386": {
+    "id": "IDNP34IDNC468IDND5992IDZ22386",
+    "name": "Lumban Julu, Toba Samosir, Sumatera Utara. 22386"
+  },
+  "pahae julu tapanuli utara sumatera utara 22463": {
+    "id": "IDNP34IDNC454IDND5736IDZ22463",
+    "name": "Pahae Julu, Tapanuli Utara, Sumatera Utara. 22463"
+  },
+  "sitellu tali urang julu pakpak bharat sumatera utara 22272": {
+    "id": "IDNP34IDNC323IDND3695IDZ22272",
+    "name": "Sitellu Tali Urang Julu, Pakpak Bharat, Sumatera Utara. 22272"
+  },
+  "padang sidempuan angkola julu padang sidempuan sumatera utara 22749": {
+    "id": "IDNP34IDNC321IDND3678IDZ22749",
+    "name": "Padang Sidempuan Angkola Julu, Padang Sidempuan, Sumatera Utara. 22749"
+  },
+  "padang bolak julu padang lawas utara sumatera utara 22753": {
+    "id": "IDNP34IDNC318IDND3652IDZ22753",
+    "name": "Padang Bolak Julu, Padang Lawas Utara, Sumatera Utara. 22753"
+  },
+  "uram jaya lebong bengkulu 39268": {
+    "id": "IDNP4IDNC228IDND2267IDZ39268",
+    "name": "Uram Jaya, Lebong, Bengkulu. 39268"
+  },
+  "cipocok jaya serang banten 42121": {
+    "id": "IDNP3IDNC396IDND4752IDZ42121",
+    "name": "Cipocok Jaya, Serang, Banten. 42121"
+  },
+  "long kali paser kalimantan timur 76283": {
+    "id": "IDNP15IDNC339IDND3904IDZ76283",
+    "name": "Long Kali, Paser, Kalimantan Timur. 76283"
+  },
+  "kei kecil timur maluku tenggara maluku 97615": {
+    "id": "IDNP19IDNC254IDND2696IDZ97615",
+    "name": "Kei Kecil Timur, Maluku Tenggara, Maluku. 97615"
+  },
+  "kei kecil barat maluku tenggara maluku 97624": {
+    "id": "IDNP19IDNC254IDND2695IDZ97624",
+    "name": "Kei Kecil Barat, Maluku Tenggara, Maluku. 97624"
+  },
+  "kei besar selatan maluku tenggara maluku 97632": {
+    "id": "IDNP19IDNC254IDND2690IDZ97632",
+    "name": "Kei Besar Selatan, Maluku Tenggara, Maluku. 97632"
+  },
+  "batang kawa lamandau kalimantan tengah 74664": {
+    "id": "IDNP14IDNC216IDND1945IDZ74664",
+    "name": "Batang Kawa, Lamandau, Kalimantan Tengah. 74664"
+  },
+  "kahu bone sulawesi selatan 92761": {
+    "id": "IDNP28IDNC82IDND6885IDZ92761",
+    "name": "Kahu, Bone, Sulawesi Selatan. 92761"
+  },
+  "kahu bone sulawesi selatan 92767": {
+    "id": "IDNP28IDNC82IDND6885IDZ92767",
+    "name": "Kahu, Bone, Sulawesi Selatan. 92767"
+  },
+  "kamu selatan dogiyai papua 98862": {
+    "id": "IDNP24IDNC113IDND286IDZ98862",
+    "name": "Kamu Selatan, Dogiyai, Papua. 98862"
+  },
+  "kamu timur dogiyai papua 98863": {
+    "id": "IDNP24IDNC113IDND287IDZ98863",
+    "name": "Kamu Timur, Dogiyai, Papua. 98863"
+  },
+  "kras kediri jawa timur 64172": {
+    "id": "IDNP11IDNC172IDND1290IDZ64172",
+    "name": "Kras, Kediri, Jawa Timur. 64172"
+  },
+  "luas kaur bengkulu 38960": {
+    "id": "IDNP4IDNC169IDND1232IDZ38960",
+    "name": "Luas, Kaur, Bengkulu. 38960"
+  },
+  "kinal kaur bengkulu 38962": {
+    "id": "IDNP4IDNC169IDND1231IDZ38962",
+    "name": "Kinal, Kaur, Bengkulu. 38962"
+  },
+  "nasal kaur bengkulu 38964": {
+    "id": "IDNP4IDNC169IDND1236IDZ38964",
+    "name": "Nasal, Kaur, Bengkulu. 38964"
+  },
+  "kabanjahe karo sumatera utara 22111": {
+    "id": "IDNP34IDNC167IDND1201IDZ22111",
+    "name": "Kabanjahe, Karo, Sumatera Utara. 22111"
+  },
+  "kabanjahe karo sumatera utara 22112": {
+    "id": "IDNP34IDNC167IDND1201IDZ22112",
+    "name": "Kabanjahe, Karo, Sumatera Utara. 22112"
+  },
+  "kare madiun jawa timur 63182": {
+    "id": "IDNP11IDNC242IDND2469IDZ63182",
+    "name": "Kare, Madiun, Jawa Timur. 63182"
+  },
+  "kabanjahe karo sumatera utara 22113": {
+    "id": "IDNP34IDNC167IDND1201IDZ22113",
+    "name": "Kabanjahe, Karo, Sumatera Utara. 22113"
+  },
+  "kabanjahe karo sumatera utara 22114": {
+    "id": "IDNP34IDNC167IDND1201IDZ22114",
+    "name": "Kabanjahe, Karo, Sumatera Utara. 22114"
+  },
+  "koba bangka tengah bangka belitung 33681": {
+    "id": "IDNP2IDNC30IDND3331IDZ33681",
+    "name": "Koba, Bangka Tengah, Bangka Belitung. 33681"
+  },
+  "kubu kubu raya kalimantan barat 78384": {
+    "id": "IDNP12IDNC204IDND1739IDZ78384",
+    "name": "Kubu, Kubu Raya, Kalimantan Barat. 78384"
+  },
+  "kubu karangasem bali 80853": {
+    "id": "IDNP1IDNC164IDND1150IDZ80853",
+    "name": "Kubu, Karangasem, Bali. 80853"
+  },
+  "kubu tolikara papua 99562": {
+    "id": "IDNP24IDNC471IDND6060IDZ99562",
+    "name": "Kubu, Tolikara, Papua. 99562"
+  },
+  "kubu rokan hilir riau 28991": {
+    "id": "IDNP26IDNC377IDND4484IDZ28991",
+    "name": "Kubu, Rokan Hilir, Riau. 28991"
+  },
+  "kubu babussalam rokan hilir riau 28990": {
+    "id": "IDNP26IDNC377IDND4485IDZ28990",
+    "name": "Kubu Babussalam, Rokan Hilir, Riau. 28990"
+  },
+  "terentang kubu raya kalimantan barat 78392": {
+    "id": "IDNP12IDNC204IDND1745IDZ78392",
+    "name": "Terentang, Kubu Raya, Kalimantan Barat. 78392"
+  },
+  "sungai kakap kubu raya kalimantan barat 78380": {
+    "id": "IDNP12IDNC204IDND1742IDZ78380",
+    "name": "Sungai Kakap, Kubu Raya, Kalimantan Barat. 78380"
+  },
+  "kebo paniai papua 98723": {
+    "id": "IDNP24IDNC333IDND3841IDZ98723",
+    "name": "Kebo, Paniai, Papua. 98723"
+  },
+  "kei kecil timur selatan maluku tenggara maluku 97615": {
+    "id": "IDNP19IDNC254IDND2697IDZ97615",
+    "name": "Kei Kecil Timur Selatan, Maluku Tenggara, Maluku. 97615"
+  },
+  "kei besar selatan barat maluku tenggara maluku 97633": {
+    "id": "IDNP19IDNC254IDND2691IDZ97633",
+    "name": "Kei Besar Selatan Barat, Maluku Tenggara, Maluku. 97633"
+  },
+  "kei besar utara barat maluku tenggara maluku 97634": {
+    "id": "IDNP19IDNC254IDND2692IDZ97634",
+    "name": "Kei Besar Utara Barat, Maluku Tenggara, Maluku. 97634"
+  },
+  "kei besar utara timur maluku tenggara maluku 97635": {
+    "id": "IDNP19IDNC254IDND2693IDZ97635",
+    "name": "Kei Besar Utara Timur, Maluku Tenggara, Maluku. 97635"
+  },
+  "parung kuda sukabumi jawa barat 43357": {
+    "id": "IDNP9IDNC421IDND5242IDZ43357",
+    "name": "Parung Kuda, Sukabumi, Jawa Barat. 43357"
+  },
+  "kudu jombang jawa timur 61454": {
+    "id": "IDNP11IDNC158IDND1030IDZ61454",
+    "name": "Kudu, Jombang, Jawa Timur. 61454"
+  },
+  "ukha yahukimo papua 99061": {
+    "id": "IDNP24IDNC486IDND6336IDZ99061",
+    "name": "Ukha, Yahukimo, Papua. 99061"
+  },
+  "ki boven digoel papua 99661": {
+    "id": "IDNP24IDNC85IDND6932IDZ99661",
+    "name": "Ki, Boven Digoel, Papua. 99661"
+  },
+  "koja jakarta utara dki jakarta 14210": {
+    "id": "IDNP6IDNC150IDND883IDZ14210",
+    "name": "Koja, Jakarta Utara, DKI Jakarta. 14210"
+  },
+  "koja jakarta utara dki jakarta 14230": {
+    "id": "IDNP6IDNC150IDND883IDZ14230",
+    "name": "Koja, Jakarta Utara, DKI Jakarta. 14230"
+  },
+  "koja jakarta utara dki jakarta 14260": {
+    "id": "IDNP6IDNC150IDND883IDZ14260",
+    "name": "Koja, Jakarta Utara, DKI Jakarta. 14260"
+  },
+  "koja jakarta utara dki jakarta 14270": {
+    "id": "IDNP6IDNC150IDND883IDZ14270",
+    "name": "Koja, Jakarta Utara, DKI Jakarta. 14270"
+  },
+  "batang kuis deli serdang sumatera utara 20372": {
+    "id": "IDNP34IDNC108IDND196IDZ20372",
+    "name": "Batang Kuis, Deli Serdang, Sumatera Utara. 20372"
+  },
+  "kais darat sorong selatan papua barat 98226": {
+    "id": "IDNP25IDNC417IDND7167IDZ98226",
+    "name": "Kais Darat, Sorong Selatan, Papua Barat. 98226"
+  },
+  "lungkang kule kaur bengkulu 38957": {
+    "id": "IDNP4IDNC169IDND1233IDZ38957",
+    "name": "Lungkang Kule, Kaur, Bengkulu. 38957"
+  },
+  "kolf braza asmat papua 99766": {
+    "id": "IDNP24IDNC16IDND1059IDZ99766",
+    "name": "Kolf Braza, Asmat, Papua. 99766"
+  },
+  "kelua klua tabalong kalimantan selatan 71552": {
+    "id": "IDNP13IDNC436IDND5460IDZ71552",
+    "name": "Kelua (Klua), Tabalong, Kalimantan Selatan. 71552"
+  },
+  "kulo sidenreng rappang sulawesi selatan 91653": {
+    "id": "IDNP28IDNC401IDND4860IDZ91653",
+    "name": "Kulo, Sidenreng Rappang, Sulawesi Selatan. 91653"
+  },
+  "kuly lanny lanny jaya papua 99555": {
+    "id": "IDNP24IDNC226IDND2205IDZ99555",
+    "name": "Kuly Lanny, Lanny Jaya, Papua. 99555"
+  },
+  "kamu utara ikrar ikrat dogiyai papua 98863": {
+    "id": "IDNP24IDNC113IDND288IDZ98863",
+    "name": "Kamu Utara (Ikrar/Ikrat), Dogiyai, Papua. 98863"
+  },
+  "kouh boven digoel papua 99665": {
+    "id": "IDNP24IDNC85IDND6935IDZ99665",
+    "name": "Kouh, Boven Digoel, Papua. 99665"
+  },
+  "kodi sumba barat daya nusa tenggara timur ntt 87261": {
+    "id": "IDNP23IDNC425IDND5278IDZ87261",
+    "name": "Kodi, Sumba Barat Daya, Nusa Tenggara Timur (NTT). 87261"
+  },
+  "kodi utara sumba barat daya nusa tenggara timur ntt 87260": {
+    "id": "IDNP23IDNC425IDND5281IDZ87260",
+    "name": "Kodi Utara, Sumba Barat Daya, Nusa Tenggara Timur (NTT). 87260"
+  },
+  "kodi balaghar sumba barat daya nusa tenggara timur ntt 87262": {
+    "id": "IDNP23IDNC425IDND5279IDZ87262",
+    "name": "Kodi Balaghar, Sumba Barat Daya, Nusa Tenggara Timur (NTT). 87262"
+  },
+  "kodi bangedo sumba barat daya nusa tenggara timur ntt 87264": {
+    "id": "IDNP23IDNC425IDND5280IDZ87264",
+    "name": "Kodi Bangedo, Sumba Barat Daya, Nusa Tenggara Timur (NTT). 87264"
+  },
+  "kota agung kota agung pusat tanggamus lampung 35382": {
+    "id": "IDNP18IDNC447IDND5642IDZ35382",
+    "name": "Kota Agung (Kota Agung Pusat), Tanggamus, Lampung. 35382"
+  },
+  "kota agung kota agung pusat tanggamus lampung 35384": {
+    "id": "IDNP18IDNC447IDND5642IDZ35384",
+    "name": "Kota Agung (Kota Agung Pusat), Tanggamus, Lampung. 35384"
+  },
+  "kota agung kota agung pusat tanggamus lampung 35611": {
+    "id": "IDNP18IDNC447IDND5642IDZ35611",
+    "name": "Kota Agung (Kota Agung Pusat), Tanggamus, Lampung. 35611"
+  },
+  "kota agung kota agung pusat tanggamus lampung 35613": {
+    "id": "IDNP18IDNC447IDND5642IDZ35613",
+    "name": "Kota Agung (Kota Agung Pusat), Tanggamus, Lampung. 35613"
+  },
+  "kota agung kota agung pusat tanggamus lampung 35684": {
+    "id": "IDNP18IDNC447IDND5642IDZ35684",
+    "name": "Kota Agung (Kota Agung Pusat), Tanggamus, Lampung. 35684"
+  },
+  "kona yahukimo papua 99074": {
+    "id": "IDNP24IDNC486IDND6304IDZ99074",
+    "name": "Kona, Yahukimo, Papua. 99074"
+  },
+  "kora nduga papua 99565": {
+    "id": "IDNP24IDNC301IDND3359IDZ99565",
+    "name": "Kora, Nduga, Papua. 99565"
+  },
+  "kona yahukimo papua 99582": {
+    "id": "IDNP24IDNC486IDND6304IDZ99582",
+    "name": "Kona, Yahukimo, Papua. 99582"
+  },
+  "pekanbaru kota pekanbaru riau 28111": {
+    "id": "IDNP26IDNC346IDND4040IDZ28111",
+    "name": "Pekanbaru Kota, Pekanbaru, Riau. 28111"
+  },
+  "pekanbaru kota pekanbaru riau 28112": {
+    "id": "IDNP26IDNC346IDND4040IDZ28112",
+    "name": "Pekanbaru Kota, Pekanbaru, Riau. 28112"
+  },
+  "kopo serang banten 42178": {
+    "id": "IDNP3IDNC396IDND4759IDZ42178",
+    "name": "Kopo, Serang, Banten. 42178"
+  },
+  "seram utara timur kobi maluku tengah maluku 97557": {
+    "id": "IDNP19IDNC253IDND2682IDZ97557",
+    "name": "Seram Utara Timur Kobi, Maluku Tengah, Maluku. 97557"
+  },
+  "sepuluh koto x koto tanah datar sumatera barat 27151": {
+    "id": "IDNP32IDNC443IDND5569IDZ27151",
+    "name": "Sepuluh Koto (X Koto), Tanah Datar, Sumatera Barat. 27151"
+  },
+  "koto gasib siak riau 28672": {
+    "id": "IDNP26IDNC399IDND4808IDZ28672",
+    "name": "Koto Gasib, Siak, Riau. 28672"
+  },
+  "koto baru sungaipenuh jambi 37152": {
+    "id": "IDNP8IDNC432IDND5408IDZ37152",
+    "name": "Koto Baru, Sungaipenuh, Jambi. 37152"
+  },
+  "koto tangah padang sumatera barat 25171": {
+    "id": "IDNP32IDNC316IDND3624IDZ25171",
+    "name": "Koto Tangah, Padang, Sumatera Barat. 25171"
+  },
+  "koto tangah padang sumatera barat 25172": {
+    "id": "IDNP32IDNC316IDND3624IDZ25172",
+    "name": "Koto Tangah, Padang, Sumatera Barat. 25172"
+  },
+  "koto tangah padang sumatera barat 25173": {
+    "id": "IDNP32IDNC316IDND3624IDZ25173",
+    "name": "Koto Tangah, Padang, Sumatera Barat. 25173"
+  },
+  "kuok kampar riau 28467": {
+    "id": "IDNP26IDNC160IDND1080IDZ28467",
+    "name": "Kuok, Kampar, Riau. 28467"
+  },
+  "pangkalan koto baru lima puluh kota sumatera barat 26272": {
+    "id": "IDNP32IDNC231IDND2306IDZ26272",
+    "name": "Pangkalan Koto Baru, Lima Puluh Kota, Sumatera Barat. 26272"
+  },
+  "kabanjahe karo sumatera utara 22115": {
+    "id": "IDNP34IDNC167IDND1201IDZ22115",
+    "name": "Kabanjahe, Karo, Sumatera Utara. 22115"
+  },
+  "merdeka karo sumatera utara 22153": {
+    "id": "IDNP34IDNC167IDND1205IDZ22153",
+    "name": "Merdeka, Karo, Sumatera Utara. 22153"
+  },
+  "payung karo sumatera utara 22154": {
+    "id": "IDNP34IDNC167IDND1209IDZ22154",
+    "name": "Payung, Karo, Sumatera Utara. 22154"
+  },
+  "tiganderket karo sumatera utara 22156": {
+    "id": "IDNP34IDNC167IDND1213IDZ22156",
+    "name": "Tiganderket, Karo, Sumatera Utara. 22156"
+  },
+  "munte karo sumatera utara 22161": {
+    "id": "IDNP34IDNC167IDND1207IDZ22161",
+    "name": "Munte, Karo, Sumatera Utara. 22161"
+  },
+  "juhar karo sumatera utara 22163": {
+    "id": "IDNP34IDNC167IDND1200IDZ22163",
+    "name": "Juhar, Karo, Sumatera Utara. 22163"
+  },
+  "krui selatan pesisir barat lampung 34874": {
+    "id": "IDNP18IDNC353IDND4108IDZ34874",
+    "name": "Krui Selatan, Pesisir Barat, Lampung. 34874"
+  },
+  "way krui pesisir barat lampung 34898": {
+    "id": "IDNP18IDNC353IDND4115IDZ34898",
+    "name": "Way Krui, Pesisir Barat, Lampung. 34898"
+  },
+  "kuri teluk bintuni papua barat 98363": {
+    "id": "IDNP25IDNC461IDND5866IDZ98363",
+    "name": "Kuri, Teluk Bintuni, Papua Barat. 98363"
+  },
+  "kota malaka kuta malaka aceh besar nanggroe aceh darussalam nad 23363": {
+    "id": "IDNP21IDNC3IDND3317IDZ23363",
+    "name": "Kota Malaka (Kuta Malaka), Aceh Besar, Nanggroe Aceh Darussalam (NAD). 23363"
+  },
+  "kute panang aceh tengah nanggroe aceh darussalam nad 24568": {
+    "id": "IDNP21IDNC8IDND6825IDZ24568",
+    "name": "Kute Panang, Aceh Tengah, Nanggroe Aceh Darussalam (NAD). 24568"
+  },
+  "koto tangah padang sumatera barat 25175": {
+    "id": "IDNP32IDNC316IDND3624IDZ25175",
+    "name": "Koto Tangah, Padang, Sumatera Barat. 25175"
+  },
+  "kuta selatan badung bali 80363": {
+    "id": "IDNP1IDNC17IDND1244IDZ80363",
+    "name": "Kuta Selatan, Badung, Bali. 80363"
+  },
+  "kuta utara badung bali 80365": {
+    "id": "IDNP1IDNC17IDND1245IDZ80365",
+    "name": "Kuta Utara, Badung, Bali. 80365"
+  },
+  "kuta buluh karo sumatera utara 22155": {
+    "id": "IDNP34IDNC167IDND1202IDZ22155",
+    "name": "Kuta Buluh, Karo, Sumatera Utara. 22155"
+  },
+  "kelam tengah kaur bengkulu 38955": {
+    "id": "IDNP4IDNC169IDND1230IDZ38955",
+    "name": "Kelam Tengah, Kaur, Bengkulu. 38955"
+  },
+  "ukui pelalawan riau 28388": {
+    "id": "IDNP26IDNC347IDND4059IDZ28388",
+    "name": "Ukui, Pelalawan, Riau. 28388"
+  },
+  "kuta blang bireuen nanggroe aceh darussalam nad 24358": {
+    "id": "IDNP21IDNC69IDND6634IDZ24358",
+    "name": "Kuta Blang, Bireuen, Nanggroe Aceh Darussalam (NAD). 24358"
+  },
+  "marang kayu kutai kartanegara kalimantan timur 75385": {
+    "id": "IDNP15IDNC210IDND1871IDZ75385",
+    "name": "Marang Kayu, Kutai Kartanegara, Kalimantan Timur. 75385"
+  },
+  "kayu agung ogan komering ilir sumatera selatan 30611": {
+    "id": "IDNP33IDNC311IDND3545IDZ30611",
+    "name": "Kayu Agung, Ogan Komering Ilir, Sumatera Selatan. 30611"
+  },
+  "kayu agung ogan komering ilir sumatera selatan 30612": {
+    "id": "IDNP33IDNC311IDND3545IDZ30612",
+    "name": "Kayu Agung, Ogan Komering Ilir, Sumatera Selatan. 30612"
+  },
+  "kayu agung ogan komering ilir sumatera selatan 30613": {
+    "id": "IDNP33IDNC311IDND3545IDZ30613",
+    "name": "Kayu Agung, Ogan Komering Ilir, Sumatera Selatan. 30613"
+  },
+  "kayu agung ogan komering ilir sumatera selatan 30614": {
+    "id": "IDNP33IDNC311IDND3545IDZ30614",
+    "name": "Kayu Agung, Ogan Komering Ilir, Sumatera Selatan. 30614"
+  },
+  "kayu agung ogan komering ilir sumatera selatan 30615": {
+    "id": "IDNP33IDNC311IDND3545IDZ30615",
+    "name": "Kayu Agung, Ogan Komering Ilir, Sumatera Selatan. 30615"
+  },
+  "kayu agung ogan komering ilir sumatera selatan 30616": {
+    "id": "IDNP33IDNC311IDND3545IDZ30616",
+    "name": "Kayu Agung, Ogan Komering Ilir, Sumatera Selatan. 30616"
+  },
+  "kayu agung ogan komering ilir sumatera selatan 30617": {
+    "id": "IDNP33IDNC311IDND3545IDZ30617",
+    "name": "Kayu Agung, Ogan Komering Ilir, Sumatera Selatan. 30617"
+  },
+  "lau maros sulawesi selatan 90513": {
+    "id": "IDNP28IDNC270IDND2880IDZ90513",
+    "name": "Lau, Maros, Sulawesi Selatan. 90513"
+  },
+  "lau maros sulawesi selatan 90514": {
+    "id": "IDNP28IDNC270IDND2880IDZ90514",
+    "name": "Lau, Maros, Sulawesi Selatan. 90514"
+  },
+  "sungai lala indragiri hulu riau 29363": {
+    "id": "IDNP26IDNC143IDND780IDZ29363",
+    "name": "Sungai Lala, Indragiri Hulu, Riau. 29363"
+  },
+  "lawa muna barat sulawesi tenggara 93652": {
+    "id": "IDNP30IDNC292IDND3222IDZ93652",
+    "name": "Lawa, Muna Barat, Sulawesi Tenggara. 93652"
+  },
+  "pantai labu deli serdang sumatera utara 20553": {
+    "id": "IDNP34IDNC108IDND209IDZ20553",
+    "name": "Pantai Labu, Deli Serdang, Sumatera Utara. 20553"
+  },
+  "rantau alai ogan ilir sumatera selatan 30866": {
+    "id": "IDNP33IDNC310IDND3537IDZ30866",
+    "name": "Rantau Alai, Ogan Ilir, Sumatera Selatan. 30866"
+  },
+  "batang alai selatan hulu sungai tengah kalimantan selatan 71381": {
+    "id": "IDNP13IDNC139IDND712IDZ71381",
+    "name": "Batang Alai Selatan, Hulu Sungai Tengah, Kalimantan Selatan. 71381"
+  },
+  "sungai laur ketapang kalimantan barat 78872": {
+    "id": "IDNP12IDNC189IDND1514IDZ78872",
+    "name": "Sungai Laur, Ketapang, Kalimantan Barat. 78872"
+  },
+  "jambi luar kota muaro jambi jambi 36361": {
+    "id": "IDNP8IDNC289IDND3166IDZ36361",
+    "name": "Jambi Luar Kota, Muaro Jambi, Jambi. 36361"
+  },
+  "jambi luar kota muaro jambi jambi 36382": {
+    "id": "IDNP8IDNC289IDND3166IDZ36382",
+    "name": "Jambi Luar Kota, Muaro Jambi, Jambi. 36382"
+  },
+  "padang ulak tanding rejang lebong bengkulu 39180": {
+    "id": "IDNP4IDNC375IDND4460IDZ39180",
+    "name": "Padang Ulak Tanding, Rejang Lebong, Bengkulu. 39180"
+  },
+  "alak kupang nusa tenggara timur ntt 85234": {
+    "id": "IDNP23IDNC208IDND1799IDZ85234",
+    "name": "Alak, Kupang, Nusa Tenggara Timur (NTT). 85234"
+  },
+  "alak kupang nusa tenggara timur ntt 85235": {
+    "id": "IDNP23IDNC208IDND1799IDZ85235",
+    "name": "Alak, Kupang, Nusa Tenggara Timur (NTT). 85235"
+  },
+  "alak kupang nusa tenggara timur ntt 85236": {
+    "id": "IDNP23IDNC208IDND1799IDZ85236",
+    "name": "Alak, Kupang, Nusa Tenggara Timur (NTT). 85236"
+  },
+  "muara lawa kutai barat kalimantan timur 75775": {
+    "id": "IDNP15IDNC209IDND1838IDZ75775",
+    "name": "Muara Lawa, Kutai Barat, Kalimantan Timur. 75775"
+  },
+  "lobu banggai sulawesi tengah 94750": {
+    "id": "IDNP29IDNC24IDND2426IDZ94750",
+    "name": "Lobu, Banggai, Sulawesi Tengah. 94750"
+  },
+  "batang lubu sutam padang lawas sumatera utara 22742": {
+    "id": "IDNP34IDNC317IDND3638IDZ22742",
+    "name": "Batang Lubu Sutam, Padang Lawas, Sumatera Utara. 22742"
+  },
+  "pahunga lodu sumba timur nusa tenggara timur ntt 87182": {
+    "id": "IDNP23IDNC427IDND5309IDZ87182",
+    "name": "Pahunga Lodu, Sumba Timur, Nusa Tenggara Timur (NTT). 87182"
+  },
+  "loea kolaka timur sulawesi tenggara 93581": {
+    "id": "IDNP30IDNC193IDND1570IDZ93581",
+    "name": "Loea, Kolaka Timur, Sulawesi Tenggara. 93581"
+  },
+  "lede pulau taliabu maluku utara 97979": {
+    "id": "IDNP20IDNC368IDND4326IDZ97979",
+    "name": "Lede, Pulau Taliabu, Maluku Utara. 97979"
+  },
+  "ulee kareng banda aceh nanggroe aceh darussalam nad 23117": {
+    "id": "IDNP21IDNC20IDND1694IDZ23117",
+    "name": "Ulee Kareng, Banda Aceh, Nanggroe Aceh Darussalam (NAD). 23117"
+  },
+  "ulee kareng banda aceh nanggroe aceh darussalam nad 23118": {
+    "id": "IDNP21IDNC20IDND1694IDZ23118",
+    "name": "Ulee Kareng, Banda Aceh, Nanggroe Aceh Darussalam (NAD). 23118"
+  },
+  "ulee kareng banda aceh nanggroe aceh darussalam nad 23119": {
+    "id": "IDNP21IDNC20IDND1694IDZ23119",
+    "name": "Ulee Kareng, Banda Aceh, Nanggroe Aceh Darussalam (NAD). 23119"
+  },
+  "lili rilau soppeng sulawesi selatan 90871": {
+    "id": "IDNP28IDNC415IDND5085IDZ90871",
+    "name": "Lili Rilau, Soppeng, Sulawesi Selatan. 90871"
+  },
+  "liliraja lili riaja soppeng sulawesi selatan 90861": {
+    "id": "IDNP28IDNC415IDND5086IDZ90861",
+    "name": "Liliraja (Lili Riaja), Soppeng, Sulawesi Selatan. 90861"
+  },
+  "tana lili luwu utara sulawesi selatan 91966": {
+    "id": "IDNP28IDNC241IDND2462IDZ91966",
+    "name": "Tana Lili, Luwu Utara, Sulawesi Selatan. 91966"
+  },
+  "sabu liae sabu raijua nusa tenggara timur ntt 85396": {
+    "id": "IDNP23IDNC381IDND4543IDZ85396",
+    "name": "Sabu Liae, Sabu Raijua, Nusa Tenggara Timur (NTT). 85396"
+  },
+  "landasan ulin banjarbaru kalimantan selatan 70721": {
+    "id": "IDNP13IDNC34IDND3913IDZ70721",
+    "name": "Landasan Ulin, Banjarbaru, Kalimantan Selatan. 70721"
+  },
+  "landasan ulin banjarbaru kalimantan selatan 70724": {
+    "id": "IDNP13IDNC34IDND3913IDZ70724",
+    "name": "Landasan Ulin, Banjarbaru, Kalimantan Selatan. 70724"
+  },
+  "jaya loka musi rawas sumatera selatan 31665": {
+    "id": "IDNP33IDNC295IDND3256IDZ31665",
+    "name": "Jaya Loka, Musi Rawas, Sumatera Selatan. 31665"
+  },
+  "loli sumba barat nusa tenggara timur ntt 87284": {
+    "id": "IDNP23IDNC424IDND5275IDZ87284",
+    "name": "Loli, Sumba Barat, Nusa Tenggara Timur (NTT). 87284"
+  },
+  "lumo puncak jaya papua 98918": {
+    "id": "IDNP24IDNC370IDND4360IDZ98918",
+    "name": "Lumo, Puncak Jaya, Papua. 98918"
+  },
+  "long bagun mahakam ulu kalimantan timur 75767": {
+    "id": "IDNP15IDNC245IDND2525IDZ75767",
+    "name": "Long Bagun, Mahakam Ulu, Kalimantan Timur. 75767"
+  },
+  "long pahangai mahakam ulu kalimantan timur 75768": {
+    "id": "IDNP15IDNC245IDND2527IDZ75768",
+    "name": "Long Pahangai, Mahakam Ulu, Kalimantan Timur. 75768"
+  },
+  "long apari mahakam ulu kalimantan timur 75769": {
+    "id": "IDNP15IDNC245IDND2524IDZ75769",
+    "name": "Long Apari, Mahakam Ulu, Kalimantan Timur. 75769"
+  },
+  "long hubung mahakam ulu kalimantan timur 75779": {
+    "id": "IDNP15IDNC245IDND2526IDZ75779",
+    "name": "Long Hubung, Mahakam Ulu, Kalimantan Timur. 75779"
+  },
+  "long mesangat mesengat kutai timur kalimantan timur 75654": {
+    "id": "IDNP15IDNC211IDND1890IDZ75654",
+    "name": "Long Mesangat (Mesengat), Kutai Timur, Kalimantan Timur. 75654"
+  },
+  "long mesangat mesengat kutai timur kalimantan timur 75656": {
+    "id": "IDNP15IDNC211IDND1890IDZ75656",
+    "name": "Long Mesangat (Mesengat), Kutai Timur, Kalimantan Timur. 75656"
+  },
+  "lore piore poso sulawesi tengah 94653": {
+    "id": "IDNP29IDNC362IDND4252IDZ94653",
+    "name": "Lore Piore, Poso, Sulawesi Tengah. 94653"
+  },
+  "lore timur poso sulawesi tengah 94653": {
+    "id": "IDNP29IDNC362IDND4255IDZ94653",
+    "name": "Lore Timur, Poso, Sulawesi Tengah. 94653"
+  },
+  "lore barat poso sulawesi tengah 94654": {
+    "id": "IDNP29IDNC362IDND4251IDZ94654",
+    "name": "Lore Barat, Poso, Sulawesi Tengah. 94654"
+  },
+  "lore selatan poso sulawesi tengah 94655": {
+    "id": "IDNP29IDNC362IDND4253IDZ94655",
+    "name": "Lore Selatan, Poso, Sulawesi Tengah. 94655"
+  },
+  "lore tengah poso sulawesi tengah 94656": {
+    "id": "IDNP29IDNC362IDND4254IDZ94656",
+    "name": "Lore Tengah, Poso, Sulawesi Tengah. 94656"
+  },
+  "lore utara poso sulawesi tengah 94658": {
+    "id": "IDNP29IDNC362IDND4256IDZ94658",
+    "name": "Lore Utara, Poso, Sulawesi Tengah. 94658"
+  },
+  "ulok kupai bengkulu utara bengkulu 38364": {
+    "id": "IDNP4IDNC63IDND6556IDZ38364",
+    "name": "Ulok Kupai, Bengkulu Utara, Bengkulu. 38364"
+  },
+  "alok sikka nusa tenggara timur ntt 86118": {
+    "id": "IDNP23IDNC405IDND4910IDZ86118",
+    "name": "Alok, Sikka, Nusa Tenggara Timur (NTT). 86118"
+  },
+  "lotu nias utara sumatera utara 22856": {
+    "id": "IDNP34IDNC308IDND3486IDZ22856",
+    "name": "Lotu, Nias Utara, Sumatera Utara. 22856"
+  },
+  "luak luhak lima puluh kota sumatera barat 26261": {
+    "id": "IDNP32IDNC231IDND2304IDZ26261",
+    "name": "Luak (Luhak), Lima Puluh Kota, Sumatera Barat. 26261"
+  },
+  "latimojong luwu sulawesi selatan 91942": {
+    "id": "IDNP28IDNC239IDND2408IDZ91942",
+    "name": "Latimojong, Luwu, Sulawesi Selatan. 91942"
+  },
+  "walenrang luwu sulawesi selatan 91950": {
+    "id": "IDNP28IDNC239IDND2413IDZ91950",
+    "name": "Walenrang, Luwu, Sulawesi Selatan. 91950"
+  },
+  "lamasi luwu sulawesi selatan 91952": {
+    "id": "IDNP28IDNC239IDND2404IDZ91952",
+    "name": "Lamasi, Luwu, Sulawesi Selatan. 91952"
+  },
+  "belopa luwu sulawesi selatan 91983": {
+    "id": "IDNP28IDNC239IDND2399IDZ91983",
+    "name": "Belopa, Luwu, Sulawesi Selatan. 91983"
+  },
+  "suli luwu sulawesi selatan 91985": {
+    "id": "IDNP28IDNC239IDND2411IDZ91985",
+    "name": "Suli, Luwu, Sulawesi Selatan. 91985"
+  },
+  "kamanre luwu sulawesi selatan 91994": {
+    "id": "IDNP28IDNC239IDND2403IDZ91994",
+    "name": "Kamanre, Luwu, Sulawesi Selatan. 91994"
+  },
+  "larompong luwu sulawesi selatan 91997": {
+    "id": "IDNP28IDNC239IDND2406IDZ91997",
+    "name": "Larompong, Luwu, Sulawesi Selatan. 91997"
+  },
+  "ponrang luwu sulawesi selatan 91999": {
+    "id": "IDNP28IDNC239IDND2409IDZ91999",
+    "name": "Ponrang, Luwu, Sulawesi Selatan. 91999"
+  },
+  "tanah luas aceh utara nanggroe aceh darussalam nad 24387": {
+    "id": "IDNP21IDNC11IDND256IDZ24387",
+    "name": "Tanah Luas, Aceh Utara, Nanggroe Aceh Darussalam (NAD). 24387"
+  },
+  "luyo polewali mandar sulawesi barat 91358": {
+    "id": "IDNP27IDNC359IDND4194IDZ91358",
+    "name": "Luyo, Polewali Mandar, Sulawesi Barat. 91358"
+  },
+  "sungai mas aceh barat nanggroe aceh darussalam nad 23683": {
+    "id": "IDNP21IDNC1IDND9IDZ23683",
+    "name": "Sungai Mas, Aceh Barat, Nanggroe Aceh Darussalam (NAD). 23683"
+  },
+  "pulau maya pulau maya karimata kayong utara kalimantan barat 78855": {
+    "id": "IDNP12IDNC170IDND1249IDZ78855",
+    "name": "Pulau Maya (Pulau Maya Karimata), Kayong Utara, Kalimantan Barat. 78855"
+  },
+  "malo bojonegoro jawa timur 62153": {
+    "id": "IDNP11IDNC75IDND6772IDZ62153",
+    "name": "Malo, Bojonegoro, Jawa Timur. 62153"
+  },
+  "mare bone sulawesi selatan 92773": {
+    "id": "IDNP28IDNC82IDND6890IDZ92773",
+    "name": "Mare, Bone, Sulawesi Selatan. 92773"
+  },
+  "mare maybrat papua barat 98251": {
+    "id": "IDNP25IDNC272IDND2918IDZ98251",
+    "name": "Mare, Maybrat, Papua Barat. 98251"
+  },
+  "teluk umar nabire papua 98852": {
+    "id": "IDNP24IDNC297IDND3285IDZ98852",
+    "name": "Teluk Umar, Nabire, Papua. 98852"
+  },
+  "moba nduga papua 99565": {
+    "id": "IDNP24IDNC301IDND3368IDZ99565",
+    "name": "Moba, Nduga, Papua. 99565"
+  },
+  "mbua mbuga nduga papua 99564": {
+    "id": "IDNP24IDNC301IDND3364IDZ99564",
+    "name": "Mbua (Mbuga), Nduga, Papua. 99564"
+  },
+  "mbua tengah nduga papua 99565": {
+    "id": "IDNP24IDNC301IDND3365IDZ99565",
+    "name": "Mbua Tengah, Nduga, Papua. 99565"
+  },
+  "maba selatan halmahera timur maluku utara 97861": {
+    "id": "IDNP20IDNC136IDND675IDZ97861",
+    "name": "Maba Selatan, Halmahera Timur, Maluku Utara. 97861"
+  },
+  "umbu ratu nggay sumba tengah nusa tenggara timur ntt 87283": {
+    "id": "IDNP23IDNC426IDND5292IDZ87283",
+    "name": "Umbu Ratu Nggay, Sumba Tengah, Nusa Tenggara Timur (NTT). 87283"
+  },
+  "umbu ratu nggay barat sumba tengah nusa tenggara timur ntt 87282": {
+    "id": "IDNP23IDNC426IDND5293IDZ87282",
+    "name": "Umbu Ratu Nggay Barat, Sumba Tengah, Nusa Tenggara Timur (NTT). 87282"
+  },
+  "sinembah tanjung muda hilir deli serdang sumatera utara 20363": {
+    "id": "IDNP34IDNC108IDND213IDZ20363",
+    "name": "Sinembah Tanjung Muda Hilir, Deli Serdang, Sumatera Utara. 20363"
+  },
+  "sinembah tanjung muda hulu deli serdang sumatera utara 20582": {
+    "id": "IDNP34IDNC108IDND214IDZ20582",
+    "name": "Sinembah Tanjung Muda Hulu, Deli Serdang, Sumatera Utara. 20582"
+  },
+  "kejuruan muda aceh tamiang nanggroe aceh darussalam nad 24477": {
+    "id": "IDNP21IDNC7IDND6648IDZ24477",
+    "name": "Kejuruan Muda, Aceh Tamiang, Nanggroe Aceh Darussalam (NAD). 24477"
+  },
+  "modo lamongan jawa timur 62275": {
+    "id": "IDNP11IDNC217IDND1967IDZ62275",
+    "name": "Modo, Lamongan, Jawa Timur. 62275"
+  },
+  "gunuang omeh gunung mas lima puluh kota sumatera barat 26256": {
+    "id": "IDNP32IDNC231IDND2300IDZ26256",
+    "name": "Gunuang Omeh (Gunung Mas), Lima Puluh Kota, Sumatera Barat. 26256"
+  },
+  "moga pemalang jawa tengah 52354": {
+    "id": "IDNP10IDNC348IDND4065IDZ52354",
+    "name": "Moga, Pemalang, Jawa Tengah. 52354"
+  },
+  "mugi yahukimo papua 99056": {
+    "id": "IDNP24IDNC486IDND6312IDZ99056",
+    "name": "Mugi, Yahukimo, Papua. 99056"
+  },
+  "mugi nduga papua 99564": {
+    "id": "IDNP24IDNC301IDND3369IDZ99564",
+    "name": "Mugi, Nduga, Papua. 99564"
+  },
+  "mahu sumba timur nusa tenggara timur ntt 87170": {
+    "id": "IDNP23IDNC427IDND5304IDZ87170",
+    "name": "Mahu, Sumba Timur, Nusa Tenggara Timur (NTT). 87170"
+  },
+  "mojo kediri jawa timur 64162": {
+    "id": "IDNP11IDNC172IDND1292IDZ64162",
+    "name": "Mojo, Kediri, Jawa Timur. 64162"
+  },
+  "wegee muka paniai papua 98717": {
+    "id": "IDNP24IDNC333IDND7105IDZ98717",
+    "name": "Wegee Muka, Paniai, Papua. 98717"
+  },
+  "sianjur mula mula samosir sumatera utara 22396": {
+    "id": "IDNP34IDNC385IDND4585IDZ22396",
+    "name": "Sianjur Mula Mula, Samosir, Sumatera Utara. 22396"
+  },
+  "penarik muko muko bengkulu 38768": {
+    "id": "IDNP4IDNC290IDND3190IDZ38768",
+    "name": "Penarik, Muko Muko, Bengkulu. 38768"
+  },
+  "lubuk pinang muko muko bengkulu 38756": {
+    "id": "IDNP4IDNC290IDND3188IDZ38756",
+    "name": "Lubuk Pinang, Muko Muko, Bengkulu. 38756"
+  },
+  "v koto muko muko bengkulu 38757": {
+    "id": "IDNP4IDNC290IDND3196IDZ38757",
+    "name": "V Koto, Muko Muko, Bengkulu. 38757"
+  },
+  "teras terunjam muko muko bengkulu 38758": {
+    "id": "IDNP4IDNC290IDND3195IDZ38758",
+    "name": "Teras Terunjam, Muko Muko, Bengkulu. 38758"
+  },
+  "teramang jaya muko muko bengkulu 38760": {
+    "id": "IDNP4IDNC290IDND3194IDZ38760",
+    "name": "Teramang Jaya, Muko Muko, Bengkulu. 38760"
+  },
+  "sungai rumbai muko muko bengkulu 38761": {
+    "id": "IDNP4IDNC290IDND3193IDZ38761",
+    "name": "Sungai Rumbai, Muko Muko, Bengkulu. 38761"
+  },
+  "malin deman muko muko bengkulu 38762": {
+    "id": "IDNP4IDNC290IDND3189IDZ38762",
+    "name": "Malin Deman, Muko Muko, Bengkulu. 38762"
+  },
+  "air rami muko muko bengkulu 38764": {
+    "id": "IDNP4IDNC290IDND3185IDZ38764",
+    "name": "Air Rami, Muko Muko, Bengkulu. 38764"
+  },
+  "somolo molo samolo nias sumatera utara 22871": {
+    "id": "IDNP34IDNC305IDND3440IDZ22871",
+    "name": "Somolo-Molo (Samolo), Nias, Sumatera Utara. 22871"
+  },
+  "momi waren manokwari selatan papua barat 98322": {
+    "id": "IDNP25IDNC268IDND2848IDZ98322",
+    "name": "Momi Waren, Manokwari Selatan, Papua Barat. 98322"
+  },
+  "moti pulau moti ternate maluku utara 97751": {
+    "id": "IDNP20IDNC464IDND5914IDZ97751",
+    "name": "Moti (Pulau Moti), Ternate, Maluku Utara. 97751"
+  },
+  "mori utara morowali utara sulawesi tengah 94964": {
+    "id": "IDNP29IDNC287IDND3140IDZ94964",
+    "name": "Mori Utara, Morowali Utara, Sulawesi Tengah. 94964"
+  },
+  "moro karimun kepulauan riau 29663": {
+    "id": "IDNP17IDNC166IDND1194IDZ29663",
+    "name": "Moro, Karimun, Kepulauan Riau. 29663"
+  },
+  "molu maru maluku tenggara barat maluku 97463": {
+    "id": "IDNP19IDNC255IDND2700IDZ97463",
+    "name": "Molu Maru, Maluku Tenggara Barat, Maluku. 97463"
+  },
+  "mook manaar bulatn kutai barat kalimantan timur 75765": {
+    "id": "IDNP15IDNC209IDND1837IDZ75765",
+    "name": "Mook Manaar Bulatn, Kutai Barat, Kalimantan Timur. 75765"
+  },
+  "mook manaar bulatn kutai barat kalimantan timur 75774": {
+    "id": "IDNP15IDNC209IDND1837IDZ75774",
+    "name": "Mook Manaar Bulatn, Kutai Barat, Kalimantan Timur. 75774"
+  },
+  "moyo hulu sumbawa nusa tenggara barat ntb 84371": {
+    "id": "IDNP22IDNC428IDND5330IDZ84371",
+    "name": "Moyo Hulu, Sumbawa, Nusa Tenggara Barat (NTB). 84371"
+  },
+  "moyo hilir sumbawa nusa tenggara barat ntb 84381": {
+    "id": "IDNP22IDNC428IDND5329IDZ84381",
+    "name": "Moyo Hilir, Sumbawa, Nusa Tenggara Barat (NTB). 84381"
+  },
+  "moyo utara sumbawa nusa tenggara barat ntb 84381": {
+    "id": "IDNP22IDNC428IDND5331IDZ84381",
+    "name": "Moyo Utara, Sumbawa, Nusa Tenggara Barat (NTB). 84381"
   }
 }
