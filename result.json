@@ -1,0 +1,1103 @@
+{
+  "provider": "biteship",
+  "origin": "Depok, Sleman, DI Yogyakarta. 55281",
+  "weightKg": 1,
+  "fetchedAt": "2026-09-27T19:25:08.013Z",
+  "totalDestinations": 7295,
+  "offset": 0,
+  "completed": 50,
+  "results": [
+    {
+      "destination": {
+        "code": "IDNP8IDNC151IDND7132IDZ36139",
+        "name": "Paal Merah, Jambi, Jambi"
+      },
+      "error": "Biteship: gagal mengambil tarif (HTTP 400) - No courier available for requested location. Please activate other courier option to receive other pricing rate."
+    },
+    {
+      "destination": {
+        "code": "IDNP31IDNC262IDND2778IDZ95127",
+        "name": "Paal Dua, Manado, Sulawesi Utara"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 265000,
+          "currency": "IDR",
+          "etd": "14 - 20 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 92000,
+          "currency": "IDR",
+          "etd": "3 - 4 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP26IDNC142IDND751IDZ29253",
+        "name": "Gaung Anak Serka, Indragiri Hilir, Riau"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 185000,
+          "currency": "IDR",
+          "etd": "30 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 75000,
+          "currency": "IDR",
+          "etd": "11 - 14 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP18IDNC220IDND2074IDZ34161",
+        "name": "Anak Tuha, Lampung Tengah, Lampung"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 145000,
+          "currency": "IDR",
+          "etd": "6 - 7 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 41000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP23IDNC208IDND1799IDZ85231",
+        "name": "Alak, Kupang, Nusa Tenggara Timur (NTT)"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 160000,
+          "currency": "IDR",
+          "etd": "14 - 20 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 102000,
+          "currency": "IDR",
+          "etd": "3 - 4 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP8IDNC389IDND4628IDZ37485",
+        "name": "Batang Asai, Sarolangun, Jambi"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 180000,
+          "currency": "IDR",
+          "etd": "30 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 48000,
+          "currency": "IDR",
+          "etd": "6 - 8 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP32IDNC320IDND3663IDZ25586",
+        "name": "Batang Anai, Padang Pariaman, Sumatera Barat"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 180000,
+          "currency": "IDR",
+          "etd": "10 - 11 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 69000,
+          "currency": "IDR",
+          "etd": "4 - 6 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP18IDNC220IDND2073IDZ35513",
+        "name": "Anak Ratu Aji, Lampung Tengah, Lampung"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 145000,
+          "currency": "IDR",
+          "etd": "6 - 7 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 41000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP33IDNC310IDND3537IDZ30866",
+        "name": "Rantau Alai, Ogan Ilir, Sumatera Selatan"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 150000,
+          "currency": "IDR",
+          "etd": "6 - 7 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 43000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP13IDNC139IDND713IDZ71382",
+        "name": "Batang Alai Timur, Hulu Sungai Tengah, Kalimantan Selatan"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 72000,
+          "currency": "IDR",
+          "etd": "6 - 8 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP13IDNC139IDND712IDZ71381",
+        "name": "Batang Alai Selatan, Hulu Sungai Tengah, Kalimantan Selatan"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 72000,
+          "currency": "IDR",
+          "etd": "6 - 8 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP14IDNC43IDND5351IDZ73753",
+        "name": "Gunung Bintang Awai, Barito Selatan, Kalimantan Tengah"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 72000,
+          "currency": "IDR",
+          "etd": "6 - 8 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP13IDNC139IDND714IDZ71391",
+        "name": "Batang Alai Utara, Hulu Sungai Tengah, Kalimantan Selatan"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 72000,
+          "currency": "IDR",
+          "etd": "6 - 8 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP25IDNC374IDND4427IDZ98481",
+        "name": "Ayau, Raja Ampat, Papua Barat"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 205000,
+          "currency": "IDR",
+          "etd": "12 - 15 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP25IDNC374IDND4430IDZ98481",
+        "name": "Kepulauan Ayau, Raja Ampat, Papua Barat"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 205000,
+          "currency": "IDR",
+          "etd": "9 - 12 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP4IDNC228IDND2258IDZ39265",
+        "name": "Lebong Atas, Lebong, Bengkulu"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 155000,
+          "currency": "IDR",
+          "etd": "8 - 9 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 42000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP24IDNC388IDND4626IDZ99372",
+        "name": "Tor Atas, Sarmi, Papua"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 205000,
+          "currency": "IDR",
+          "etd": "9 - 12 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP4IDNC392IDND4676IDZ38875",
+        "name": "Semidang Alas Maras, Seluma, Bengkulu"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 155000,
+          "currency": "IDR",
+          "etd": "8 - 9 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 42000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP24IDNC257IDND2733IDZ99389",
+        "name": "Waropen Atas, Mamberamo Raya, Papua"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 217000,
+          "currency": "IDR",
+          "etd": "12 - 15 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP22IDNC428IDND5316IDZ84353",
+        "name": "Alas, Sumbawa, Nusa Tenggara Barat (NTB)"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 195000,
+          "currency": "IDR",
+          "etd": "9 - 11 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 68000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP30IDNC97IDND7080IDZ93753",
+        "name": "Batu Atas, Buton Selatan, Sulawesi Tenggara"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 123000,
+          "currency": "IDR",
+          "etd": "11 - 14 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP4IDNC392IDND4675IDZ38873",
+        "name": "Semidang Alas, Seluma, Bengkulu"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 155000,
+          "currency": "IDR",
+          "etd": "8 - 9 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 42000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP29IDNC287IDND3139IDZ94965",
+        "name": "Mori Atas, Morowali Utara, Sulawesi Tengah"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 155000,
+          "currency": "IDR",
+          "etd": "10 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP25IDNC159IDND1046IDZ98653",
+        "name": "Teluk Arguni Atas, Kaimana, Papua Barat"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 205000,
+          "currency": "IDR",
+          "etd": "11 - 26 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP24IDNC277IDND3004IDZ99655",
+        "name": "Waan, Merauke, Papua"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 217000,
+          "currency": "IDR",
+          "etd": "6 - 9 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP28IDNC473IDND6087IDZ91854",
+        "name": "Awan Rante Karua, Toraja Utara, Sulawesi Selatan"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 93000,
+          "currency": "IDR",
+          "etd": "7 - 10 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP21IDNC10IDND15IDZ24455",
+        "name": "Darul Aman, Aceh Timur, Nanggroe Aceh Darussalam (NAD)"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 190000,
+          "currency": "IDR",
+          "etd": "11 - 12 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 81000,
+          "currency": "IDR",
+          "etd": "6 - 8 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP33IDNC322IDND3688IDZ31511",
+        "name": "Pagar Alam Utara, Pagar Alam, Sumatera Selatan"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 120000,
+          "currency": "IDR",
+          "etd": "5 - 6 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 37000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP22IDNC428IDND5317IDZ84354",
+        "name": "Alas Barat, Sumbawa, Nusa Tenggara Barat (NTB)"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 195000,
+          "currency": "IDR",
+          "etd": "9 - 11 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 68000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP33IDNC322IDND3687IDZ31522",
+        "name": "Pagar Alam Selatan, Pagar Alam, Sumatera Selatan"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 120000,
+          "currency": "IDR",
+          "etd": "5 - 6 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 37000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP24IDNC16IDND1051IDZ99779",
+        "name": "Akat, Asmat, Papua"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 228000,
+          "currency": "IDR",
+          "etd": "11 - 19 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP33IDNC351IDND4092IDZ31263",
+        "name": "Penukal, Penukal Abab Lematang Ilir, Sumatera Selatan"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 150000,
+          "currency": "IDR",
+          "etd": "6 - 7 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 43000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP33IDNC351IDND4091IDZ31264",
+        "name": "Abab, Penukal Abab Lematang Ilir, Sumatera Selatan"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 150000,
+          "currency": "IDR",
+          "etd": "6 - 7 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 43000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP33IDNC351IDND4094IDZ31211",
+        "name": "Talang Ubi, Penukal Abab Lematang Ilir, Sumatera Selatan"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 150000,
+          "currency": "IDR",
+          "etd": "6 - 7 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 43000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP33IDNC351IDND4093IDZ31262",
+        "name": "Penukal Utara, Penukal Abab Lematang Ilir, Sumatera Selatan"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 150000,
+          "currency": "IDR",
+          "etd": "6 - 7 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 43000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP33IDNC351IDND4095IDZ31265",
+        "name": "Tanah Abang, Penukal Abab Lematang Ilir, Sumatera Selatan"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 150000,
+          "currency": "IDR",
+          "etd": "6 - 7 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 43000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP10IDNC171IDND1257IDZ54473",
+        "name": "Ayah, Kebumen, Jawa Tengah"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 90000,
+          "currency": "IDR",
+          "etd": "5 - 6 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 18000,
+          "currency": "IDR",
+          "etd": "6 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP4IDNC62IDND6538IDZ38388",
+        "name": "Taba Penanjung, Bengkulu Tengah, Bengkulu"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 155000,
+          "currency": "IDR",
+          "etd": "8 - 9 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 42000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP20IDNC136IDND674IDZ97860",
+        "name": "Maba, Halmahera Timur, Maluku Utara"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 490000,
+          "currency": "IDR",
+          "etd": "19 - 30 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 131000,
+          "currency": "IDR",
+          "etd": "11 - 14 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP22IDNC66IDND6602IDZ84113",
+        "name": "Raba, Bima, Nusa Tenggara Barat (NTB)"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 165000,
+          "currency": "IDR",
+          "etd": "8 - 10 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 60000,
+          "currency": "IDR",
+          "etd": "4 - 6 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP27IDNC261IDND2765IDZ91572",
+        "name": "Bulu Taba, Mamuju Utara, Sulawesi Barat"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 93000,
+          "currency": "IDR",
+          "etd": "7 - 10 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP20IDNC136IDND675IDZ97861",
+        "name": "Maba Selatan, Halmahera Timur, Maluku Utara"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 147000,
+          "currency": "IDR",
+          "etd": "11 - 14 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP20IDNC136IDND673IDZ97862",
+        "name": "Kota Maba, Halmahera Timur, Maluku Utara"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 147000,
+          "currency": "IDR",
+          "etd": "8 - 11 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP20IDNC136IDND676IDZ97863",
+        "name": "Maba Tengah, Halmahera Timur, Maluku Utara"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 147000,
+          "currency": "IDR",
+          "etd": "8 - 11 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP20IDNC136IDND677IDZ97864",
+        "name": "Maba Utara, Halmahera Timur, Maluku Utara"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 147000,
+          "currency": "IDR",
+          "etd": "8 - 11 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP24IDNC280IDND3025IDZ99973",
+        "name": "Amar, Mimika, Papua"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 205000,
+          "currency": "IDR",
+          "etd": "9 - 12 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP25IDNC461IDND5859IDZ98363",
+        "name": "Babo, Teluk Bintuni, Papua Barat"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 433000,
+          "currency": "IDR",
+          "etd": "12 - 16 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP23IDNC381IDND4544IDZ85392",
+        "name": "Sabu Tengah, Sabu Raijua, Nusa Tenggara Timur (NTT)"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 250000,
+          "currency": "IDR",
+          "etd": "15 - 21 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 114000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP23IDNC381IDND4545IDZ85394",
+        "name": "Sabu Timur, Sabu Raijua, Nusa Tenggara Timur (NTT)"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 250000,
+          "currency": "IDR",
+          "etd": "15 - 21 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 114000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    },
+    {
+      "destination": {
+        "code": "IDNP23IDNC381IDND4542IDZ85395",
+        "name": "Sabu Barat, Sabu Raijua, Nusa Tenggara Timur (NTT)"
+      },
+      "rates": [
+        {
+          "provider": "biteship",
+          "service": "JNE Trucking",
+          "serviceName": "JNE Trucking with minimum weight of 10 kg",
+          "price": 250000,
+          "currency": "IDR",
+          "etd": "15 - 21 days",
+          "courierCode": "jne"
+        },
+        {
+          "provider": "biteship",
+          "service": "Reguler",
+          "serviceName": "JNE Layanan reguler",
+          "price": 114000,
+          "currency": "IDR",
+          "etd": "5 - 7 days",
+          "courierCode": "jne"
+        }
+      ]
+    }
+  ]
+}
