@@ -1,0 +1,13 @@
+{
+  "name": "cek-ongkir-cli",
+  "version": "1.0.0",
+  "description": "CLI cek ongkir + estimasi pengiriman live (JNE, Paxel, Lion Parcel, BOSSPACK)",
+  "main": "cli.js",
+  "bin": { "cekongkir": "./cli.js" },
+  "scripts": {
+    "start": "node cli.js",
+    "jne": "node cli.js --provider jne --origin BOO10000 --destination CGK10400 --weight 1",
+    "all": "node cli.js --origin BOO10000 --destination CGK10400 --weight 1"
+  },
+  "engines": { "node": ">=18" }
+}
