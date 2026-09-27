@@ -56,10 +56,41 @@ lib/providers/jne.js      # adapter JNE
 lib/providers/biteship.js # adapter Biteship (endpoint publik cek-ongkir biteship.com)
 lib/providers/paxel.js    # adapter Paxel
 lib/providers/lionparcel.js # adapter Lion Parcel + BOSSPACK
-scripts/fetch-jne-codes.js  # tarik daftar kode origin/destination JNE -> data/jne-codes.json
-scripts/generate-jne-md.js  # generate KODE-JNE.md dari data/jne-codes.json
+scripts/fetch-jne-codes.js     # tarik daftar kode origin/destination JNE -> data/jne-codes.json
+scripts/generate-jne-md.js     # generate KODE-JNE.md dari data/jne-codes.json
+scripts/fetch-biteship-areas.js # sweep daftar kode area Biteship -> data/biteship-areas.json
 KODE-JNE.md               # daftar lengkap kode origin/destination JNE
 ```
+
+## Update data kode area
+
+```bash
+# Kode origin/destination JNE (cepat, ~2-5 menit)
+node scripts/fetch-jne-codes.js
+node scripts/generate-jne-md.js   # regenerasi KODE-JNE.md
+
+# Kode area Biteship — mode kecamatan saja (dedupe per kecamatan, tanpa kelurahan/desa)
+node scripts/fetch-biteship-areas.js --fast --district   # cepat (~2 menit, tidak 100% lengkap)
+node scripts/fetch-biteship-areas.js --district          # lengkap (sweep 4 huruf, ~2 jam)
+node scripts/fetch-biteship-areas.js --fast --district --merge  # gabung dengan cache lama
+```
+
+Opsi `--district` menyimpan satu entri per kecamatan dengan struktur:
+
+```json
+{
+  "kemang bogor": {
+    "id": "IDNP...",
+    "name": "Kemang, Bogor, Jawa Barat. 16310",
+    "district": "Kemang",
+    "city": "Bogor",
+    "province": "Jawa Barat"
+  }
+}
+```
+
+Tanpa `--district`, semua area (termasuk kelurahan/desa) disimpan sebagai
+`{ "<nama-normalized>": { "id": "...", "name": "..." } }`.
 
 ## Format hasil (dinormalisasi)
 
@@ -98,6 +129,8 @@ Auth memakai skema publik Biteship (tanpa akun/API key): header `Authorization: 
 di bundle frontend biteship.com sendiri.
 
 Hasil pencarian nama area di-cache di `data/biteship-areas.json` agar tidak hit API berulang.
+Untuk membangun/mem-refresh cache tersebut secara massal, gunakan
+`node scripts/fetch-biteship-areas.js --district` (lihat section "Update data kode area" di atas).
 Tidak ada bypass CAPTCHA — endpoint ini memang dapat diakses publik oleh siapa pun yang membuka
 halaman cek-ongkir Biteship.
 

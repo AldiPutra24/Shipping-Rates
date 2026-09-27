@@ -12,6 +12,7 @@
  *   node scripts/fetch-biteship-areas.js            # sweep 4 huruf (lengkap, lama)
  *   node scripts/fetch-biteship-areas.js --fast     # sweep 3 huruf (lebih cepat, tidak 100% lengkap)
  *   node scripts/fetch-biteship-areas.js --merge    # gabung dengan cache yang sudah ada
+ *   node scripts/fetch-biteship-areas.js --district # hanya level kecamatan (tanpa kelurahan/desa)
  *
  * Format output (kompatibel dengan cache adapter):
  *   { "<nama-normalized>": { "id": "IDNP...", "name": "..." }, ... }
@@ -27,6 +28,7 @@ const OUT = path.join(__dirname, '..', 'data', 'biteship-areas.json');
 const CONCURRENCY = parseInt(process.env.CONCURRENCY || '32', 10);
 const PREFIX_LEN = process.argv.includes('--fast') ? 3 : 4;
 const MERGE = process.argv.includes('--merge');
+const DISTRICT_ONLY = process.argv.includes('--district');
 
 function publicHeaders() {
   const ts = Math.floor(Date.now() / 1000);
@@ -105,7 +107,27 @@ async function pool(items, worker, size) {
     done++;
     if (res.status === 200 && res.json && res.json.success) {
       for (const a of res.json.areas || []) {
-        if (a.id && a.name && !areas.has(a.id)) {
+        if (!a.id || !a.name) continue;
+        if (DISTRICT_ONLY) {
+          // dedupe per kecamatan (administrative_division_level_3)
+          const d3 = a.administrative_division_level_3_name;
+          const d3id =
+            a.administrative_division_level_3_id ||
+            (a.id ? String(a.id).split('IDND')[0] + 'IDND' + String(a.id).split('IDND')[1] : null);
+          const dkey = d3
+            ? `${a.administrative_division_level_2_name || ''}|${d3}`.toLowerCase()
+            : a.id;
+          if (!areas.has(dkey)) {
+            areas.set(dkey, {
+              id: d3id && /^IDNP/.test(d3id) ? d3id : a.id,
+              name: a.name,
+              district: d3 || null,
+              city: a.administrative_division_level_2_name || null,
+              province: a.administrative_division_level_1_name || null,
+            });
+            hits++;
+          }
+        } else if (!areas.has(a.id)) {
           areas.set(a.id, { id: a.id, name: a.name });
           hits++;
         }
@@ -128,8 +150,13 @@ async function pool(items, worker, size) {
 function flush(areas) {
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
   const cache = {};
-  for (const { id, name } of areas.values()) {
-    cache[normalizeName(name)] = { id, name };
+  for (const { id, name, ...rest } of areas.values()) {
+    const entry = { id, name, ...rest };
+    // index utama: "kecamatan, kota" saat --district, kalau tidak nama lengkap
+    const key = entry.district
+      ? normalizeName(`${entry.district} ${entry.city || ''}`)
+      : normalizeName(name);
+    if (!cache[key]) cache[key] = entry;
   }
   fs.writeFileSync(OUT, JSON.stringify(cache, null, 2));
 }
