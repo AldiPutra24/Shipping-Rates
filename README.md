@@ -98,9 +98,11 @@ saat runtime tetap didukung penuh oleh endpoint publik Biteship (lihat section
 node scripts/fetch-all-destinations.js --provider jne --origin BOO10000 --weight 1
 
 # Biteship: origin nama wilayah, hanya kecamatan, batasi 50 destination
-node scripts/fetch-all-destinations.js --provider biteship --origin "Depok, Sleman, DI Yogyakarta. 55281" --weight 1 --district-only --limit 50
+node scripts/fetch-all-destinations.js --provider biteship --origin "Depok, Sleman, DI Yogyakarta. 55281" --weight 2 --district-only --limit 50
 
 # Resume dari destination ke-100
+node scripts/fetch-all-destinations.js --provider biteship --origin "Depok, Sleman, DI Yogyakarta. 55281" --weight 2 --offset 100
+
 node scripts/fetch-all-destinations.js --provider jne --origin BOO10000 --weight 1 --offset 100
 ```
 
